@@ -3,63 +3,78 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
     <title>Ritenza - Kullanım Koşulları / Terms of Use</title>
     <style>
       :root {
         color-scheme: light dark;
         --bg: #0b0e14;
         --card: #151a23;
-        --text: #e8edf5;
-        --dim: #a3adbb;
+        --text: #edf2f8;
+        --dim: #adb7c5;
         --accent: #34d993;
-        --border: #293240;
+        --border: #2a3442;
+        --soft: #10151d;
       }
       @media (prefers-color-scheme: light) {
         :root {
           --bg: #f4f6fa;
-          --card: #ffffff;
+          --card: #fff;
           --text: #171b24;
-          --dim: #596474;
+          --dim: #556171;
           --accent: #087d50;
           --border: #dbe1e9;
+          --soft: #f8fafc;
         }
       }
       * {
         box-sizing: border-box;
+      }
+      html {
+        scroll-behavior: smooth;
       }
       body {
         margin: 0;
         background: var(--bg);
         color: var(--text);
         font:
-          16px/1.65 -apple-system,
+          16px/1.68 -apple-system,
           BlinkMacSystemFont,
           'Segoe UI',
           sans-serif;
       }
       main {
-        width: min(820px, calc(100% - 32px));
-        margin: 32px auto 64px;
+        width: min(880px, calc(100% - 28px));
+        margin: 24px auto 64px;
       }
       header,
-      section {
+      section,
+      nav {
         background: var(--card);
         border: 1px solid var(--border);
-        border-radius: 12px;
+        border-radius: 10px;
         padding: 22px;
         margin-bottom: 14px;
       }
       h1 {
         margin: 0 0 6px;
-        font-size: 30px;
+        font-size: clamp(26px, 5vw, 34px);
+        line-height: 1.2;
+        letter-spacing: 0;
       }
       h2 {
         margin: 0 0 10px;
         font-size: 20px;
+        line-height: 1.35;
+        letter-spacing: 0;
       }
       p,
       li {
         color: var(--dim);
+      }
+      p:last-child,
+      ul:last-child {
+        margin-bottom: 0;
       }
       strong,
       a {
@@ -67,6 +82,10 @@
       }
       a {
         text-decoration-color: var(--accent);
+        text-underline-offset: 3px;
+      }
+      ul {
+        padding-left: 22px;
       }
       .meta {
         margin: 0;
@@ -74,10 +93,28 @@
       .notice {
         border-left: 4px solid var(--accent);
       }
+      .plain {
+        background: var(--soft);
+      }
+      .lang {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+      .lang a {
+        border: 1px solid var(--border);
+        padding: 8px 12px;
+        border-radius: 6px;
+        text-decoration: none;
+      }
+      .caps {
+        text-transform: uppercase;
+        font-size: 14px;
+      }
       hr {
         border: 0;
         border-top: 1px solid var(--border);
-        margin: 34px 0;
+        margin: 36px 0;
       }
     </style>
   </head>
@@ -85,181 +122,570 @@
     <main>
       <header>
         <h1>Ritenza Kullanım Koşulları</h1>
-        <p class="meta">Son güncelleme: 2 Ağustos 2026</p>
+        <p class="meta">Yürürlük ve son güncelleme: 2 Ağustos 2026</p>
       </header>
 
-      <section>
-        <h2>1. Hizmet</h2>
-        <p>
-          Ritenza, çevrimdışı çalışan bir alışkanlık takip uygulamasıdır. Uygulama tıbbi,
-          psikolojik veya profesyonel danışmanlık hizmeti sunmaz ve belirli bir sonuca
-          ulaşılacağını garanti etmez.
-        </p>
-        <p>
-          Bu koşullar, Apple'ın
-          <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
-            >Standart Son Kullanıcı Lisans Sözleşmesi</a
-          >
-          ile birlikte uygulanır.
-        </p>
-      </section>
+      <nav class="lang" aria-label="Dil seçimi">
+        <a href="#turkce">Türkçe</a><a href="#english">English</a>
+      </nav>
 
-      <section>
-        <h2>2. Plus satın alımları</h2>
-        <p>
-          Aylık ve yıllık planlar, kullanıcı tarafından iptal edilene kadar Apple
-          koşullarına göre otomatik yenilenen aboneliklerdir. Güncel fiyat, dönem ve
-          yenileme bilgisi satın alma ekranında App Store'dan alınarak gösterilir.
-        </p>
-        <p>
-          <strong>Tek Seferlik Plus</strong>, abonelik veya otomatik yenileme olmadan
-          mevcut Ritenza Plus özelliklerine kalıcı erişim sağlayan, tüketilmeyen bir
-          uygulama içi satın alımdır. Satın alma Apple hesabına bağlıdır ve desteklenen
-          cihazlarda "Satın Alımları Geri Yükle" ile yeniden etkinleştirilebilir.
-        </p>
-      </section>
+      <div id="turkce">
+        <section class="notice">
+          <h2>Önemli özet</h2>
+          <p>
+            Ritenza bir alışkanlık takip aracıdır; sağlık hizmeti, acil durum sistemi veya
+            sonuç garantisi değildir. Temel veriler cihazınızda tutulur. Bildirimlerin
+            teslimi işletim sistemi ayarlarına bağlıdır ve garanti edilemez. Satın alımlar
+            ilgili uygulama mağazası tarafından işlenir. Bu özet kolaylık içindir;
+            aşağıdaki hükümlerin yerini almaz.
+          </p>
+        </section>
 
-      <section class="notice">
-        <h2>3. Tek Seferlik Plus'ın kapsamı</h2>
-        <p>
-          Erişim; uygulamanın App Store'da kullanılabilir olması, cihazın ve işletim
-          sisteminin Ritenza'yı desteklemesi ve Apple'ın satın alma doğrulama
-          hizmetlerinin çalışmaya devam etmesi koşullarına bağlıdır.
-        </p>
-        <p>
-          Apple hizmetlerindeki kesintiler, App Store politikalarındaki değişiklikler,
-          kullanıcının Apple hesabına erişimini kaybetmesi veya desteklenmeyen cihaz ya da
-          işletim sistemi kullanması gibi Ritenza'nın makul kontrolü dışındaki durumlarda
-          erişim geçici veya kalıcı olarak etkilenebilir. Ritenza, kendi kontrolündeki
-          durumlarda satın alınmış erişimi korumak ve geri yüklemek için makul çabayı
-          gösterir.
-        </p>
-        <p>
-          Tek Seferlik Plus; gelecekte ayrı bir ürün olarak sunulabilecek hizmetleri,
-          üçüncü taraf hizmetlerini veya sınırsız süreyle yeni özellik ve işletim sistemi
-          güncellemesi sağlanacağına ilişkin bir taahhüdü kapsamaz. Bu koşullar,
-          kullanıcının yürürlükteki tüketici mevzuatından doğan zorunlu haklarını
-          sınırlamaz.
-        </p>
-      </section>
+        <section>
+          <h2>1. Taraflar, kabul ve uygulanan belgeler</h2>
+          <p>
+            Bu koşullar, Ritenza mobil uygulamasının bireysel geliştiricisi ve sağlayıcısı
+            <strong>Ali Nazım Örnek</strong> ("Ritenza", "biz") ile uygulamayı kullanan
+            kişi ("kullanıcı", "siz") arasındadır. Uygulamayı indirerek, kullanarak veya
+            bir satın alma başlatarak bu koşulları ve
+            <a href="privacy.html">Gizlilik Politikası</a>'nı kabul edersiniz.
+          </p>
+          <p>
+            iOS sürümü bakımından bu koşullar, Apple'ın
+            <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+              >Standart Son Kullanıcı Lisans Sözleşmesi</a
+            >
+            ile birlikte uygulanır. Çelişki halinde zorunlu hukuk kuralları ve ilgili
+            mağazanın bağlayıcı koşulları önceliklidir.
+          </p>
+        </section>
 
-      <section>
-        <h2>4. İptal, iade ve geri yükleme</h2>
-        <p>
-          Abonelik yönetimi, iptal ve uygun iadeler Apple tarafından kendi koşullarına
-          göre yürütülür. Aboneliğin iptali mevcut ödenmiş dönemi hemen sona erdirmez.
-          Uygulama, geri yüklenebilir satın alımlar için geri yükleme seçeneği sunar.
-        </p>
-      </section>
+        <section>
+          <h2>2. Uygunluk ve kişisel sorumluluk</h2>
+          <p>
+            Uygulamayı bulunduğunuz yerde geçerli sözleşme yapma ehliyetine sahipseniz
+            kullanabilirsiniz. Reşit değilseniz, uygulanabilir hukukun gerektirdiği
+            ebeveyn veya yasal temsilci iznini almalısınız. Cihazınızın, mağaza
+            hesabınızın ve varsa cihaz kilidinizin güvenliğinden siz sorumlusunuz.
+          </p>
+        </section>
 
-      <section>
-        <h2>5. Yerel veriler ve yedekleme</h2>
-        <p>
-          Alışkanlıklar, günlükler ve tercihler cihazda tutulur. Uygulamanın silinmesi,
-          cihazın kaybolması veya bozulması veri kaybına yol açabilir. Kullanıcı,
-          uygulamadaki dışa aktarma özelliğiyle kendi yedeğini oluşturabilir. Ritenza'nın
-          sunucusunda kullanıcı verisinin bir kopyası bulunmadığından silinen yerel
-          veriler geliştirici tarafından geri getirilemez.
-        </p>
-      </section>
+        <section>
+          <h2>3. Lisans ve izin verilen kullanım</h2>
+          <p>
+            Bu koşullara uymanız şartıyla size uygulamayı kişisel ve ticari olmayan
+            amaçlarla desteklenen cihazlarda kullanmanız için sınırlı, geri alınabilir,
+            münhasır olmayan ve devredilemez bir lisans verilir. Uygulama satılmaz;
+            lisanslanır.
+          </p>
+          <p>
+            Yürürlükteki hukukun açıkça izin verdiği haller dışında uygulamayı
+            kopyalayamaz, yeniden dağıtamaz, kiralayamaz, satamaz, kaynak koda
+            dönüştüremez, güvenlik veya satın alma kontrollerini aşamaz, zararlı kod
+            ekleyemez ya da uygulamanın çalışmasına müdahale edemezsiniz.
+          </p>
+        </section>
 
-      <section>
-        <h2>6. Değişiklikler ve iletişim</h2>
-        <p>
-          Uygulamanın güvenliği, uyumluluğu ve işlevleri zaman içinde güncellenebilir.
-          Esaslı değişikliklerde bu sayfanın tarihi yenilenir. Sorularınız için
-          <a href="mailto:ritenza.apps@gmail.com">ritenza.apps@gmail.com</a> adresine
-          ulaşabilirsiniz.
-        </p>
-      </section>
+        <section>
+          <h2>4. Hizmetin niteliği ve profesyonel tavsiye olmaması</h2>
+          <p>
+            Ritenza; alışkanlık, hedef, günlük, seri, istatistik ve motivasyon araçları
+            sunar. İçgörüler cihazdaki kayıtlarınızdan üretilen tahmini ve genel amaçlı
+            bilgilerdir. Uygulama tıbbi, psikolojik, beslenme, fitness, finansal veya
+            başka bir profesyonel tavsiye sunmaz; teşhis, tedavi, güvenlik alarmı veya
+            acil müdahale aracı değildir.
+          </p>
+          <p>
+            Bir sağlık sorununuz veya acil durumunuz varsa uygulamaya ya da bildirimlerine
+            güvenmeyin; uygun bir profesyonele veya yerel acil hizmetlere başvurun.
+            Sonuçlar kişiden kişiye değişir ve belirli bir seri, performans, sağlık sonucu
+            veya davranış değişikliği garanti edilmez.
+          </p>
+        </section>
+
+        <section>
+          <h2>5. Bildirimler ve hatırlatıcılar</h2>
+          <p>
+            Hatırlatıcılar cihazda yerel olarak planlanır. Teslim zamanı ve görünürlük;
+            kullanıcının iznine, Odak/Rahatsız Etmeyin ve sessiz moduna, pil tasarrufuna,
+            üretici kısıtlamalarına, saat dilimi ve cihaz saati değişikliklerine, işletim
+            sistemi güncellemelerine ve diğer sistem koşullarına bağlıdır.
+          </p>
+          <p>
+            <strong
+              >Bildirimlerin tam zamanında veya hiç teslim edileceğini garanti
+              etmiyoruz.</strong
+            >
+            Hatırlatıcılar ilaç, sağlık, güvenlik, son tarih veya gecikmesi zarar
+            doğurabilecek başka kritik amaçlar için tek kaynak olarak kullanılmamalıdır.
+            Bildirim tercihlerinizi uygulama ve cihaz ayarlarından yönetebilirsiniz.
+          </p>
+        </section>
+
+        <section>
+          <h2>6. Yerel veriler, yedekleme ve silme</h2>
+          <p>
+            Alışkanlıklar, günlükler, notlar ve temel tercihler esas olarak cihazınızda
+            tutulur. Uygulamanın silinmesi, cihazın sıfırlanması, kaybolması, bozulması
+            veya desteklenmeyen bir geçiş veri kaybına yol açabilir. Ritenza sunucusunda
+            bu verilerin kurtarılabilir bir kopyası bulunmadığından geliştirici silinen
+            yerel verileri geri getiremez.
+          </p>
+          <p>
+            Uygulamadaki dışa aktarma/yedekleme araçlarını düzenli kullanmak, oluşturulan
+            dosyayı güvenli tutmak ve içe aktarmadan önce uygunluğunu kontrol etmek
+            kullanıcının sorumluluğundadır. Yedekleme özelliği kusursuz, sürekli veya her
+            sürümle sonsuza kadar uyumlu olacağına dair garanti içermez.
+          </p>
+        </section>
+
+        <section>
+          <h2>7. Ücretsiz sürüm ve Ritenza Plus</h2>
+          <p>
+            Temel takip özellikleri ücretsiz sunulabilir. Plus; kişiselleştirme, gelişmiş
+            analiz, dışa aktarma veya satın alma ekranında açıklanan diğer özelliklere
+            erişim sağlayabilir. Plus kapsamı zaman içinde geliştirilebilir; ancak ödenmiş
+            mevcut dönemin temel değerini makul olmayan biçimde ortadan kaldıracak
+            değişiklikler yapmamayı hedefleriz.
+          </p>
+          <p>
+            Güncel ürün, fiyat, para birimi, dönem, deneme uygunluğu ve yenileme bilgileri
+            kod içine sabitlenmez; satın alma öncesinde App Store veya Google Play
+            tarafından gösterilen bilgiler geçerlidir. Vergi ve kur farkları mağaza ve
+            bölgeye göre değişebilir.
+          </p>
+        </section>
+
+        <section>
+          <h2>8. Abonelik, ücretsiz deneme ve yenileme</h2>
+          <p>
+            Aylık ve yıllık planlar, satın alma ekranında aksi belirtilmedikçe otomatik
+            yenilenen aboneliklerdir. Ücretsiz deneme yalnızca mağazanın uygun gördüğü
+            hesaplarda ve ekranda açıkça gösterildiğinde geçerlidir. Deneme bitmeden
+            mağaza ayarlarından iptal edilmezse abonelik, satın alma sırasında gösterilen
+            fiyat ve dönem üzerinden ücretli plana dönüşebilir.
+          </p>
+          <p>
+            Aboneliği mağaza hesabınızdan yönetebilir veya iptal edebilirsiniz. Uygulamayı
+            silmek aboneliği iptal etmez. İptal genellikle mevcut ödenmiş dönemin sonuna
+            kadar erişimi etkilemez. Kesin yenileme, faturalandırma ve iptal kuralları
+            mağaza ekranında ve mağaza koşullarında belirtilir.
+          </p>
+        </section>
+
+        <section class="notice">
+          <h2>9. Tek Seferlik Plus'ın kapsamı</h2>
+          <p>
+            "Tek Seferlik" veya "Ömür Boyu" Plus, otomatik yenileme olmadan, aynı mağaza
+            hesabıyla geri yüklenebilen tüketilmeyen bir uygulama içi satın alımdır. "Ömür
+            boyu" ifadesi kullanıcının biyolojik ömrü veya sınırsız süreli geliştirme
+            taahhüdü değil; ürünün desteklenen ve erişilebilir ömrü boyunca ilgili sürümde
+            sunulan Plus hakkını ifade eder.
+          </p>
+          <p>
+            Erişim; uygulamanın dağıtımda kalmasına, cihaz ve işletim sistemi
+            uyumluluğuna, mağazanın doğrulama/geri yükleme hizmetlerine ve yasal ya da
+            teknik olarak hizmetin sürdürülebilmesine bağlıdır. Gelecekte ayrı ürün olarak
+            sunulan hizmetler, üçüncü taraf ücretleri veya açıkça ayrı satılan yeni
+            ürünler bu satın almaya otomatik olarak dahil değildir.
+          </p>
+          <p>
+            Kontrolümüz dahilindeki satın alınmış erişimi korumak ve geri yüklemek için
+            makul çaba gösteririz. Apple/Google hizmet kesintisi, mağaza politikasındaki
+            zorunlu değişiklik, mağaza hesabına erişimin kaybı, yaptırım veya mücbir sebep
+            gibi kontrolümüz dışındaki durumlar erişimi etkileyebilir. Bu madde zorunlu
+            tüketici haklarınızı ortadan kaldırmaz.
+          </p>
+        </section>
+
+        <section>
+          <h2>10. Ödeme, geri yükleme ve iadeler</h2>
+          <p>
+            Ödeme bilgilerinizi Ritenza doğrudan almaz; işlemler App Store veya Google
+            Play tarafından yürütülür. Satın alma hakkı mağaza hesabınıza bağlıdır.
+            Desteklenen ürünleri "Satın Alımları Geri Yükle" ile yeniden
+            etkinleştirebilirsiniz. Pending, aile onayı, ödeme reddi veya mağaza
+            doğrulaması tamamlanmadan Plus açılmayabilir.
+          </p>
+          <p>
+            İade talepleri ve ödeme uyuşmazlıkları, satın almanın yapıldığı mağazanın
+            sürecine ve yürürlükteki hukuka tabidir. İade veya ters ibraz halinde ilgili
+            Plus hakkı sona erebilir. Teknik destek için ödeme makbuzunu değil, mağazanın
+            sipariş/işlem kimliğini paylaşmanız istenebilir; günlük veya özel not
+            verilerinizi istemeyiz.
+          </p>
+        </section>
+
+        <section>
+          <h2>11. Güncellemeler, uyumluluk ve hizmet değişiklikleri</h2>
+          <p>
+            Güvenlik, hata düzeltme, işletim sistemi uyumluluğu, mağaza kuralları ve ürün
+            gelişimi için güncelleme yayımlayabiliriz. Eski sürümler yeni cihazlarda
+            çalışmayabilir veya desteklenmeyebilir. Her cihaz, işletim sistemi, dil,
+            erişilebilirlik ayarı veya üçüncü taraf hizmetiyle kesintisiz uyumluluk
+            garanti edilmez.
+          </p>
+          <p>
+            Esaslı ve kullanıcı haklarını etkileyen değişikliklerde makul bildirim
+            sağlamaya ve bu sayfanın tarihini güncellemeye çalışırız. Yasal, güvenlik veya
+            kötüye kullanım kaynaklı acil durumlarda önceden bildirim mümkün olmayabilir.
+          </p>
+        </section>
+
+        <section>
+          <h2>12. Fikrî mülkiyet ve geri bildirim</h2>
+          <p>
+            Ritenza adı, tasarımı, yazılımı, metinleri, görselleri ve diğer içerikleri
+            bize veya lisans verenlere aittir ve ilgili fikrî mülkiyet mevzuatıyla
+            korunur. Kullanıcının kendi girdiği içerik üzerindeki hakları kullanıcıda
+            kalır. Geri bildirim göndermeniz halinde, kişisel verilerinizi açıklamadan
+            ürünü geliştirmek amacıyla bu önerileri bedelsiz kullanabiliriz.
+          </p>
+        </section>
+
+        <section>
+          <h2>13. Üçüncü taraflar ve mağaza sağlayıcıları</h2>
+          <p>
+            Uygulama; işletim sistemi, App Store, Google Play veya yasal sayfalar gibi
+            üçüncü taraf hizmetlerine dayanabilir. Bu hizmetlerin kullanılabilirliği,
+            güvenliği, fiyatı veya politikaları üzerinde tam kontrolümüz yoktur. Apple ve
+            Google bu koşulların tarafı değildir; ancak kendi mağaza koşulları ve üçüncü
+            kişi hakları uygulanır.
+          </p>
+        </section>
+
+        <section>
+          <h2>14. Garanti reddi</h2>
+          <p class="caps">
+            <strong
+              >Yürürlükteki hukukun izin verdiği en geniş ölçüde uygulama "olduğu gibi" ve
+              "mevcut olduğu ölçüde" sunulur. Kesintisizlik, hatasızlık, belirli amaca
+              uygunluk, veri kaybı yaşanmaması, bildirim teslimi, doğruluk veya belirli
+              sonuç konusunda açık ya da zımni garanti verilmez.</strong
+            >
+          </p>
+          <p>
+            Bazı ülkeler zımni garantilerin veya zorunlu tüketici haklarının
+            sınırlandırılmasına izin vermez. Bu durumda yukarıdaki sınırlamalar yalnızca
+            hukuken izin verilen ölçüde uygulanır.
+          </p>
+        </section>
+
+        <section>
+          <h2>15. Sorumluluğun sınırı</h2>
+          <p>
+            Yürürlükteki hukukun izin verdiği en geniş ölçüde Ritenza; dolaylı, arızi,
+            özel veya sonuçsal zararlar; kâr, fırsat, itibar veya veri kaybı;
+            cihaz/mağaza/işletim sistemi arızası; bildirimin gecikmesi ya da gelmemesi
+            nedeniyle sorumlu tutulamaz. Toplam sorumluluğumuz, talebe yol açan olaydan
+            önceki 12 ayda Ritenza için ödediğiniz toplam tutar ile 50 ABD dolarından
+            yüksek olanı aşmaz.
+          </p>
+          <p>
+            Bu sınırlama; hile, kasıt, ağır ihmal, tarafımızdan kusurla neden olunan ölüm
+            veya bedensel zarar ya da hukuken sınırlandırılamayan diğer sorumluluklar için
+            geçerli değildir. Zorunlu tüketici hakları saklıdır.
+          </p>
+        </section>
+
+        <section>
+          <h2>16. Askıya alma, fesih ve mücbir sebep</h2>
+          <p>
+            Koşulları ciddi biçimde ihlal etmeniz, güvenliği aşmanız, hukuka aykırı
+            kullanım veya mağaza tarafından satın alma hakkının geri alınması halinde
+            ilgili erişim askıya alınabilir veya sona erdirilebilir. Uygulamayı silerek
+            kullanımı bırakabilirsiniz; abonelik varsa ayrıca mağazadan iptal etmelisiniz.
+          </p>
+          <p>
+            Doğal afet, savaş, geniş çaplı altyapı veya mağaza kesintisi, mevzuat
+            değişikliği, siber saldırı ve makul kontrolümüz dışındaki benzer olaylardan
+            kaynaklanan gecikme veya ifa edememeden, hukukun izin verdiği ölçüde sorumlu
+            olmayız.
+          </p>
+        </section>
+
+        <section>
+          <h2>17. Uygulanacak hukuk, bölünebilirlik ve iletişim</h2>
+          <p>
+            Bu koşullar, kanunlar ihtilafı kuralları hariç Türkiye Cumhuriyeti hukukuna
+            tabidir. Ancak bu seçim, yaşadığınız ülkedeki vazgeçilemez tüketici
+            korumalarını veya yetkili tüketici mercilerine/mahkemelerine başvuru hakkınızı
+            ortadan kaldırmaz. Geçersiz bir hüküm yalnızca gerekli ölçüde uygulanmaz;
+            diğer hükümler yürürlükte kalır. Bir hakkın gecikmeli kullanılması o haktan
+            feragat değildir.
+          </p>
+          <p>
+            Sorular, destek ve yasal bildirimler için:
+            <a href="mailto:ritenza.apps@gmail.com">ritenza.apps@gmail.com</a>.
+          </p>
+        </section>
+      </div>
 
       <hr />
 
-      <header lang="en">
-        <h1>Ritenza Terms of Use</h1>
-        <p class="meta">Last updated: 2 August 2026</p>
-      </header>
+      <div id="english" lang="en">
+        <header>
+          <h1>Ritenza Terms of Use</h1>
+          <p class="meta">Effective and last updated: 2 August 2026</p>
+        </header>
 
-      <section lang="en">
-        <h2>1. Service</h2>
-        <p>
-          Ritenza is an offline habit-tracking application. It does not provide medical,
-          psychological, or other professional advice and does not guarantee a specific
-          outcome.
-        </p>
-        <p>
-          These terms apply together with Apple's
-          <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
-            >Standard End User License Agreement</a
-          >.
-        </p>
-      </section>
+        <section class="notice">
+          <h2>Important summary</h2>
+          <p>
+            Ritenza is a habit-tracking tool, not healthcare, an emergency system, or a
+            guarantee of results. Core data is stored on your device. Notification
+            delivery depends on operating-system settings and cannot be guaranteed.
+            Purchases are processed by the relevant app store. This summary is for
+            convenience and does not replace the terms below.
+          </p>
+        </section>
 
-      <section lang="en">
-        <h2>2. Plus purchases</h2>
-        <p>
-          Monthly and yearly plans are subscriptions that renew automatically under
-          Apple's terms until cancelled. The current price, period, and renewal details
-          are fetched from the App Store and shown before purchase.
-        </p>
-        <p>
-          <strong>One-time Plus</strong> is a non-consumable in-app purchase that grants
-          ongoing access to the current Ritenza Plus features without a subscription or
-          automatic renewal. It is linked to the purchaser's Apple Account and can be
-          restored on supported devices using Restore Purchases.
-        </p>
-      </section>
-
-      <section class="notice" lang="en">
-        <h2>3. Scope of One-time Plus</h2>
-        <p>
-          Access depends on Ritenza remaining available on the App Store, continued
-          compatibility with the device and operating system, and the continued operation
-          of Apple's purchase-validation services.
-        </p>
-        <p>
-          Access may be temporarily or permanently affected by circumstances outside
-          Ritenza's reasonable control, including interruptions to Apple services, changes
-          to App Store policies, loss of access to the purchaser's Apple Account, or use
-          of an unsupported device or operating system. For matters within its control,
-          Ritenza will make reasonable efforts to preserve and restore purchased access.
-        </p>
-        <p>
-          One-time Plus does not include services later offered as separate products,
-          third-party services, or a promise of unlimited future features or operating
-          system updates. Nothing in these terms limits mandatory consumer rights under
-          applicable law.
-        </p>
-      </section>
-
-      <section lang="en">
-        <h2>4. Cancellation, refunds, and restoration</h2>
-        <p>
-          Apple handles subscription management, cancellation, and eligible refunds under
-          its terms. Cancelling a subscription does not immediately end the paid period.
-          Ritenza provides a restore option for restorable purchases.
-        </p>
-      </section>
-
-      <section lang="en">
-        <h2>5. Local data and backups</h2>
-        <p>
-          Habits, journals, and preferences are stored on the device. Removing the app or
-          losing or damaging the device may cause data loss. Users can create their own
-          backup with the export feature. Ritenza cannot recover deleted local data
-          because no copy is held on a developer server.
-        </p>
-      </section>
-
-      <section lang="en">
-        <h2>6. Changes and contact</h2>
-        <p>
-          The app may change over time for security, compatibility, and functionality.
-          This page's date will be updated for material changes. Contact
-          <a href="mailto:ritenza.apps@gmail.com">ritenza.apps@gmail.com</a> with
-          questions.
-        </p>
-      </section>
+        <section>
+          <h2>1. Parties, acceptance, and related terms</h2>
+          <p>
+            These Terms are between <strong>Ali Nazım Örnek</strong>, the individual
+            developer and provider of the Ritenza mobile application ("Ritenza," "we,"
+            "us"), and the person using it ("you"). By downloading or using the app or
+            initiating a purchase, you accept these Terms and the
+            <a href="privacy.html">Privacy Policy</a>.
+          </p>
+          <p>
+            For iOS, these Terms apply together with Apple's
+            <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+              >Standard End User License Agreement</a
+            >. Mandatory law and binding store terms control in the event of a conflict.
+          </p>
+        </section>
+        <section>
+          <h2>2. Eligibility and account responsibility</h2>
+          <p>
+            You may use the app if you have legal capacity to contract where you live. If
+            you are a minor, obtain any consent required from a parent or legal guardian.
+            You are responsible for the security of your device, store account, and device
+            lock.
+          </p>
+        </section>
+        <section>
+          <h2>3. License and permitted use</h2>
+          <p>
+            Subject to these Terms, we grant you a limited, revocable, non-exclusive,
+            non-transferable license to use the app for personal, non-commercial purposes
+            on supported devices. The app is licensed, not sold. Except where applicable
+            law expressly allows it, you may not copy, redistribute, rent, sell, reverse
+            engineer, bypass security or purchase controls, introduce malicious code, or
+            interfere with the app.
+          </p>
+        </section>
+        <section>
+          <h2>4. Nature of the service; no professional advice</h2>
+          <p>
+            Ritenza provides habit, goal, journal, streak, statistics, and motivation
+            tools. Insights are estimates generated from on-device records for general
+            information. The app is not medical, psychological, nutritional, fitness,
+            financial, or other professional advice and is not a diagnosis, treatment,
+            safety alarm, or emergency-response tool.
+          </p>
+          <p>
+            For a health concern or emergency, do not rely on the app or its
+            notifications; contact an appropriate professional or local emergency service.
+            Results vary and no particular streak, performance, health outcome, or
+            behavioral change is guaranteed.
+          </p>
+        </section>
+        <section>
+          <h2>5. Notifications and reminders</h2>
+          <p>
+            Reminders are scheduled locally on the device. Timing and visibility depend on
+            permission, Focus/Do Not Disturb and silent modes, battery optimization,
+            manufacturer restrictions, time-zone or device-clock changes, operating-system
+            updates, and other system conditions.
+          </p>
+          <p>
+            <strong
+              >We do not guarantee that a notification will arrive on time or at
+              all.</strong
+            >
+            Do not use reminders as the sole source for medication, health, safety,
+            deadlines, or any other time-critical purpose. You can manage preferences in
+            the app and device settings.
+          </p>
+        </section>
+        <section>
+          <h2>6. Local data, backup, and deletion</h2>
+          <p>
+            Habits, journals, notes, and core preferences are primarily stored on your
+            device. Removing or resetting the app, or losing, damaging, or making an
+            unsupported transition from the device, may cause data loss. Because no
+            recoverable copy is held on a Ritenza server, the developer cannot restore
+            deleted local data.
+          </p>
+          <p>
+            You are responsible for using export/backup tools regularly, securing exported
+            files, and checking suitability before import. Backup is not guaranteed to be
+            uninterrupted, error-free, or compatible with every future version forever.
+          </p>
+        </section>
+        <section>
+          <h2>7. Free service and Ritenza Plus</h2>
+          <p>
+            Core tracking may be offered free. Plus may provide personalization, advanced
+            analysis, export, and other features described on the purchase screen. Plus
+            may evolve, but we aim not to unreasonably remove the core value of a paid
+            current term.
+          </p>
+          <p>
+            Current product, price, currency, period, trial eligibility, and renewal
+            information comes from the App Store or Google Play and is shown before
+            purchase. Taxes and currency effects vary by store and region.
+          </p>
+        </section>
+        <section>
+          <h2>8. Subscriptions, free trials, and renewal</h2>
+          <p>
+            Monthly and annual plans automatically renew unless the purchase screen says
+            otherwise. A free trial applies only when the store determines that the
+            account is eligible and displays the offer. Unless cancelled in store settings
+            before the trial ends, it may convert to a paid subscription at the price and
+            period shown at purchase.
+          </p>
+          <p>
+            Manage or cancel a subscription through your store account. Deleting the app
+            does not cancel a subscription. Cancellation generally takes effect after the
+            current paid period. Store disclosures and terms control exact billing and
+            renewal rules.
+          </p>
+        </section>
+        <section class="notice">
+          <h2>9. Scope of One-time Plus</h2>
+          <p>
+            "One-time" or "Lifetime" Plus is a non-consumable in-app purchase with no
+            automatic renewal, restorable through the same store account. "Lifetime" means
+            the supported and available life of the product, not the user's biological
+            lifetime or a promise of development for an unlimited period.
+          </p>
+          <p>
+            Access depends on continued distribution, device and OS compatibility, store
+            validation/restoration, and legal and technical feasibility. Separately sold
+            future products, third-party charges, or clearly separate services are not
+            automatically included.
+          </p>
+          <p>
+            We will use reasonable efforts to preserve and restore purchased access within
+            our control. Apple/Google outages, mandatory store-policy changes, loss of
+            store-account access, sanctions, and force majeure may affect access. This
+            section does not remove mandatory consumer rights.
+          </p>
+        </section>
+        <section>
+          <h2>10. Payment, restoration, and refunds</h2>
+          <p>
+            Ritenza does not directly receive your payment details; App Store or Google
+            Play processes transactions. Entitlements are tied to the store account. Use
+            Restore Purchases for supported products. Plus may remain locked while a
+            transaction, family approval, payment, or store verification is pending.
+          </p>
+          <p>
+            Refunds and payment disputes follow the purchasing store's process and
+            applicable law. A refund or chargeback may end the related entitlement.
+            Support may request a store transaction identifier, but does not need your
+            journal or private notes.
+          </p>
+        </section>
+        <section>
+          <h2>11. Updates, compatibility, and changes</h2>
+          <p>
+            We may release updates for security, bugs, OS compatibility, store rules, and
+            product development. Old versions may stop working on new devices or cease to
+            be supported. Uninterrupted compatibility with every device, OS, language,
+            accessibility setting, or third-party service is not guaranteed.
+          </p>
+          <p>
+            We aim to provide reasonable notice of material changes affecting user rights
+            and update the date on this page. Prior notice may be impossible for urgent
+            legal, security, or abuse-related changes.
+          </p>
+        </section>
+        <section>
+          <h2>12. Intellectual property and feedback</h2>
+          <p>
+            The Ritenza name, design, software, text, graphics, and other content belong
+            to us or our licensors and are protected by law. You retain rights in content
+            you enter. If you send feedback, we may use it without charge to improve the
+            product, without disclosing your personal data.
+          </p>
+        </section>
+        <section>
+          <h2>13. Third parties and store providers</h2>
+          <p>
+            The app may depend on operating systems, App Store, Google Play, or hosted
+            legal pages. We do not fully control their availability, security, pricing, or
+            policies. Apple and Google are not parties to these Terms, but their own store
+            terms and third-party beneficiary rights may apply.
+          </p>
+        </section>
+        <section>
+          <h2>14. Disclaimer of warranties</h2>
+          <p class="caps">
+            <strong
+              >To the maximum extent permitted by law, the app is provided "as is" and "as
+              available." We disclaim express and implied warranties regarding
+              uninterrupted or error-free operation, fitness for a particular purpose,
+              prevention of data loss, notification delivery, accuracy, or specific
+              results.</strong
+            >
+          </p>
+          <p>
+            Some jurisdictions do not allow exclusions of implied warranties or mandatory
+            consumer rights. In those places, these limitations apply only to the extent
+            legally permitted.
+          </p>
+        </section>
+        <section>
+          <h2>15. Limitation of liability</h2>
+          <p>
+            To the maximum extent permitted by law, Ritenza is not liable for indirect,
+            incidental, special, or consequential loss; loss of profit, opportunity,
+            reputation, or data; device/store/OS failure; or delayed or missing
+            notifications. Our aggregate liability will not exceed the greater of the
+            amount you paid for Ritenza during the 12 months before the event giving rise
+            to the claim or USD 50.
+          </p>
+          <p>
+            This limitation does not apply to fraud, wilful misconduct, gross negligence,
+            death or personal injury caused by our negligence, or liability that law does
+            not permit us to limit. Mandatory consumer rights remain unaffected.
+          </p>
+        </section>
+        <section>
+          <h2>16. Suspension, termination, and force majeure</h2>
+          <p>
+            Access may be suspended or ended for a serious breach, security circumvention,
+            unlawful use, or removal of an entitlement by the store. You may stop using
+            the app by removing it; separately cancel any subscription through the store.
+          </p>
+          <p>
+            To the extent permitted by law, we are not liable for delay or inability to
+            perform caused by natural disaster, war, widespread infrastructure or store
+            outage, legal change, cyberattack, or similar events outside our reasonable
+            control.
+          </p>
+        </section>
+        <section>
+          <h2>17. Governing law, severability, and contact</h2>
+          <p>
+            These Terms are governed by the laws of the Republic of Türkiye, excluding
+            conflict-of-law rules. This choice does not remove non-waivable consumer
+            protections or your right to use competent consumer authorities or courts in
+            your country of residence. If a provision is invalid, it is disapplied only as
+            necessary and the rest remains effective. Delay in enforcing a right is not a
+            waiver.
+          </p>
+          <p>
+            Questions, support, and legal notices:
+            <a href="mailto:ritenza.apps@gmail.com">ritenza.apps@gmail.com</a>.
+          </p>
+        </section>
+      </div>
     </main>
   </body>
 </html>
