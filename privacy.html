@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Ritenza — Privacy Policy</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #0b0e14;
+        --card: #151a23;
+        --text: #e8edf5;
+        --dim: #98a3b3;
+        --accent: #34d993;
+        --border: #232b38;
+      }
+      @media (prefers-color-scheme: light) {
+        :root {
+          --bg: #f1f4f9;
+          --card: #ffffff;
+          --text: #131722;
+          --dim: #5b6676;
+          --accent: #149a63;
+          --border: #dde3ec;
+        }
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        padding: 32px 20px 64px;
+        background: var(--bg);
+        color: var(--text);
+        font:
+          16px/1.65 -apple-system,
+          BlinkMacSystemFont,
+          'Segoe UI',
+          Roboto,
+          sans-serif;
+      }
+      main {
+        max-width: 720px;
+        margin: 0 auto;
+      }
+      h1 {
+        font-size: 28px;
+        margin: 0 0 4px;
+      }
+      h2 {
+        font-size: 19px;
+        margin: 36px 0 10px;
+      }
+      .meta {
+        color: var(--dim);
+        font-size: 14px;
+        margin-bottom: 28px;
+      }
+      .lead {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-left: 4px solid var(--accent);
+        border-radius: 12px;
+        padding: 18px 20px;
+        margin: 0 0 8px;
+      }
+      .lead strong {
+        color: var(--accent);
+      }
+      ul {
+        padding-left: 22px;
+      }
+      li {
+        margin: 7px 0;
+      }
+      code {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 5px;
+        padding: 1px 6px;
+        font-size: 14px;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+        font-size: 15px;
+      }
+      th,
+      td {
+        text-align: left;
+        padding: 9px 10px;
+        border-bottom: 1px solid var(--border);
+      }
+      th {
+        color: var(--dim);
+        font-weight: 700;
+      }
+      footer {
+        margin-top: 44px;
+        padding-top: 18px;
+        border-top: 1px solid var(--border);
+        color: var(--dim);
+        font-size: 14px;
+      }
+      a {
+        color: var(--accent);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>🌱 Ritenza — Privacy Policy</h1>
+      <p class="meta">Last updated: 30 July 2026 · Version 2.0.0</p>
+
+      <p class="lead">
+        <strong>Your personal habit data never leaves your device.</strong> Ritenza's core
+        tracking features work entirely offline and use no account, ads, analytics, or
+        developer server. If you choose to buy Plus, payment is processed only by Google
+        Play or Apple under their own terms.
+      </p>
+
+      <h2>What is stored?</h2>
+      <p>
+        Everything you create while using the app is stored
+        <strong>only in your phone's own storage</strong>:
+      </p>
+      <ul>
+        <li>Your habits and completion records</li>
+        <li>Your daily notes and mood entries</li>
+        <li>Your profile (name, avatar, goal) — only what you type in</li>
+        <li>App settings (theme, language, reminders)</li>
+      </ul>
+      <p>
+        This data lives in the device's standard app storage. Uninstalling the app deletes
+        all of it.
+      </p>
+
+      <h2>What is not collected?</h2>
+      <table>
+        <tr>
+          <th>Data type</th>
+          <th>Status</th>
+        </tr>
+        <tr>
+          <td>Personal identifiers (name, email, phone)</td>
+          <td>Not collected</td>
+        </tr>
+        <tr>
+          <td>Location</td>
+          <td>Not accessed</td>
+        </tr>
+        <tr>
+          <td>Contacts, photos, camera, microphone</td>
+          <td>Not accessed</td>
+        </tr>
+        <tr>
+          <td>Device or advertising identifiers</td>
+          <td>Not read</td>
+        </tr>
+        <tr>
+          <td>Usage analytics, crash reporting</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Advertising SDKs</td>
+          <td>None</td>
+        </tr>
+      </table>
+
+      <h2>Permissions and why they are requested</h2>
+      <table>
+        <tr>
+          <th>Permission</th>
+          <th>Purpose</th>
+        </tr>
+        <tr>
+          <td><code>POST_NOTIFICATIONS</code></td>
+          <td>Only to show the reminders you set yourself</td>
+        </tr>
+        <tr>
+          <td><code>SCHEDULE_EXACT_ALARM</code></td>
+          <td>So reminders arrive at the time you chose</td>
+        </tr>
+        <tr>
+          <td><code>VIBRATE</code></td>
+          <td>Touch feedback (can be turned off in settings)</td>
+        </tr>
+        <tr>
+          <td><code>com.android.vending.BILLING</code></td>
+          <td>To buy or restore Plus and verify entitlement with Google Play</td>
+        </tr>
+        <tr>
+          <td><code>RECEIVE_BOOT_COMPLETED</code> / <code>WAKE_LOCK</code></td>
+          <td>To keep local reminders working after the phone restarts</td>
+        </tr>
+        <tr>
+          <td><code>MODIFY_AUDIO_SETTINGS</code></td>
+          <td>
+            To play optional in-app completion sounds through the correct audio output
+          </td>
+        </tr>
+      </table>
+      <p>
+        If you decline the notification permission, the rest of the app keeps working
+        fully — you simply won't receive reminders.
+      </p>
+
+      <h2>Data sharing</h2>
+      <p>
+        Ritenza does not share your habits, journals, moods, or private notes with any
+        third party. When <strong>you initiate</strong> a backup export or a badge/stats
+        share, the content goes through your phone's share sheet to the app
+        <strong>you select</strong>. From that point the receiving app's privacy policy
+        applies. Ritenza never starts this on its own.
+      </p>
+      <p>
+        When you purchase Plus, Google Play or Apple processes the payment and payment
+        method directly; Ritenza never sees your card or bank details. The app stores only
+        the store product identifier and whether your Plus entitlement is valid in secure
+        storage on your device. This information is not sent to a developer server.
+      </p>
+      <p>
+        Android's automatic app backup is <strong>disabled</strong>: app data is never
+        copied to Google Drive or any other cloud. A backup exists only when you export
+        one, and you decide where it goes.
+      </p>
+
+      <h2>Deleting your data</h2>
+      <ul>
+        <li>
+          In the app: <strong>Settings → Reset All Data</strong> — permanently deletes
+          everything, including your profile
+        </li>
+        <li>By uninstalling: all data is removed from the device</li>
+      </ul>
+      <p>Because we hold none of your data, there is no deletion request to send.</p>
+
+      <h2>Children's privacy</h2>
+      <p>The app collects no personal data from anyone, regardless of age.</p>
+
+      <h2>Changes</h2>
+      <p>
+        If this policy changes, this page is updated and the date above is revised. For a
+        material change — such as beginning to collect data — you will be informed inside
+        the app.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        Questions:
+        <a href="mailto:ritenza.apps@gmail.com">ritenza.apps@gmail.com</a>
+      </p>
+
+      <footer>
+        <a href="./gizlilik.html">Türkçe sürüm</a>
+      </footer>
+    </main>
+  </body>
+</html>

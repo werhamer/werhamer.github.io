@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Ritenza — Gizlilik Politikası</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #0b0e14;
+        --card: #151a23;
+        --text: #e8edf5;
+        --dim: #98a3b3;
+        --accent: #34d993;
+        --border: #232b38;
+      }
+      @media (prefers-color-scheme: light) {
+        :root {
+          --bg: #f1f4f9;
+          --card: #ffffff;
+          --text: #131722;
+          --dim: #5b6676;
+          --accent: #149a63;
+          --border: #dde3ec;
+        }
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        padding: 32px 20px 64px;
+        background: var(--bg);
+        color: var(--text);
+        font:
+          16px/1.65 -apple-system,
+          BlinkMacSystemFont,
+          'Segoe UI',
+          Roboto,
+          sans-serif;
+      }
+      main {
+        max-width: 720px;
+        margin: 0 auto;
+      }
+      h1 {
+        font-size: 28px;
+        margin: 0 0 4px;
+      }
+      h2 {
+        font-size: 19px;
+        margin: 36px 0 10px;
+        color: var(--text);
+      }
+      .meta {
+        color: var(--dim);
+        font-size: 14px;
+        margin-bottom: 28px;
+      }
+      .lead {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-left: 4px solid var(--accent);
+        border-radius: 12px;
+        padding: 18px 20px;
+        margin: 0 0 8px;
+      }
+      .lead strong {
+        color: var(--accent);
+      }
+      ul {
+        padding-left: 22px;
+      }
+      li {
+        margin: 7px 0;
+      }
+      code {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 5px;
+        padding: 1px 6px;
+        font-size: 14px;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+        font-size: 15px;
+      }
+      th,
+      td {
+        text-align: left;
+        padding: 9px 10px;
+        border-bottom: 1px solid var(--border);
+      }
+      th {
+        color: var(--dim);
+        font-weight: 700;
+      }
+      footer {
+        margin-top: 44px;
+        padding-top: 18px;
+        border-top: 1px solid var(--border);
+        color: var(--dim);
+        font-size: 14px;
+      }
+      a {
+        color: var(--accent);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>🌱 Ritenza — Gizlilik Politikası</h1>
+      <p class="meta">Son güncelleme: 30 Temmuz 2026 · Sürüm 2.0.0</p>
+
+      <p class="lead">
+        <strong>Kişisel alışkanlık verileriniz cihazınızdan çıkmaz.</strong> Ritenza'nın
+        temel takip özellikleri tamamen çevrimdışı çalışır; hesap, reklam, analitik veya
+        geliştirici sunucusu kullanmaz. Plus satın almayı seçerseniz ödeme yalnızca Google
+        Play veya Apple tarafından kendi koşullarına göre işlenir.
+      </p>
+
+      <h2>Hangi veriler tutuluyor?</h2>
+      <p>
+        Uygulamayı kullanırken oluşturduğunuz her şey
+        <strong>yalnızca telefonunuzun kendi depolama alanında</strong> saklanır:
+      </p>
+      <ul>
+        <li>Alışkanlıklarınız ve tamamlama kayıtlarınız</li>
+        <li>Günlük notlarınız ve ruh hali işaretlemeleriniz</li>
+        <li>Profil bilgileriniz (isim, avatar, hedef) — yalnızca sizin girdikleriniz</li>
+        <li>Uygulama ayarlarınız (tema, dil, hatırlatıcılar)</li>
+      </ul>
+      <p>
+        Bu veriler cihazın standart uygulama depolamasında tutulur. Uygulamayı
+        kaldırdığınızda hepsi silinir.
+      </p>
+
+      <h2>Hangi veriler toplanmıyor?</h2>
+      <table>
+        <tr>
+          <th>Veri türü</th>
+          <th>Durum</th>
+        </tr>
+        <tr>
+          <td>Kişisel kimlik bilgisi (ad, e-posta, telefon)</td>
+          <td>Toplanmıyor</td>
+        </tr>
+        <tr>
+          <td>Konum</td>
+          <td>Erişilmiyor</td>
+        </tr>
+        <tr>
+          <td>Kişiler, fotoğraflar, kamera, mikrofon</td>
+          <td>Erişilmiyor</td>
+        </tr>
+        <tr>
+          <td>Cihaz tanımlayıcıları / reklam kimliği</td>
+          <td>Okunmuyor</td>
+        </tr>
+        <tr>
+          <td>Kullanım analitiği, çökme raporlama</td>
+          <td>Yok</td>
+        </tr>
+        <tr>
+          <td>Reklam ağı (SDK)</td>
+          <td>Yok</td>
+        </tr>
+      </table>
+
+      <h2>İzinler ve neden isteniyor?</h2>
+      <table>
+        <tr>
+          <th>İzin</th>
+          <th>Kullanım amacı</th>
+        </tr>
+        <tr>
+          <td><code>POST_NOTIFICATIONS</code></td>
+          <td>Yalnızca sizin kurduğunuz hatırlatıcıları göstermek için</td>
+        </tr>
+        <tr>
+          <td><code>SCHEDULE_EXACT_ALARM</code></td>
+          <td>Hatırlatıcıların seçtiğiniz saatte gelmesi için</td>
+        </tr>
+        <tr>
+          <td><code>VIBRATE</code></td>
+          <td>Dokunma geri bildirimi (ayarlardan kapatılabilir)</td>
+        </tr>
+        <tr>
+          <td><code>com.android.vending.BILLING</code></td>
+          <td>
+            Plus satın alma, geri yükleme ve üyelik durumunu Google Play ile doğrulamak
+            için
+          </td>
+        </tr>
+        <tr>
+          <td><code>RECEIVE_BOOT_COMPLETED</code> / <code>WAKE_LOCK</code></td>
+          <td>
+            Telefon yeniden başladıktan sonra yerel hatırlatıcıların çalışabilmesi için
+          </td>
+        </tr>
+        <tr>
+          <td><code>MODIFY_AUDIO_SETTINGS</code></td>
+          <td>
+            Uygulama içi isteğe bağlı tamamlama seslerini doğru ses çıkışında oynatmak
+            için
+          </td>
+        </tr>
+      </table>
+      <p>
+        Bildirim izni vermezseniz uygulamanın geri kalanı tam olarak çalışmaya devam eder;
+        yalnızca hatırlatıcılar gelmez.
+      </p>
+
+      <h2>Veri paylaşımı</h2>
+      <p>
+        Ritenza alışkanlıklarınızı, günlüklerinizi, ruh hâlinizi veya özel notlarınızı
+        hiçbir üçüncü tarafla paylaşmaz. Yedek dosyanızı veya rozet/istatistik paylaşımını
+        <strong>siz başlattığınızda</strong>, içerik telefonunuzun paylaşım menüsü
+        üzerinden <strong>sizin seçtiğiniz</strong>
+        uygulamaya gider. Bu noktadan sonrası seçtiğiniz uygulamanın gizlilik politikasına
+        tabidir. Ritenza bu işlemi hiçbir zaman kendiliğinden başlatmaz.
+      </p>
+      <p>
+        Plus satın alımında ödeme ve ödeme aracınız doğrudan Google Play veya Apple
+        tarafından işlenir; Ritenza kart veya banka bilgilerinizi görmez. Uygulama
+        yalnızca mağazanın döndürdüğü ürün kimliğini ve Plus hakkının geçerli olup
+        olmadığını cihazınızdaki güvenli depoda tutar. Bu bilgi bir geliştirici sunucusuna
+        gönderilmez.
+      </p>
+      <p>
+        Android'in otomatik uygulama yedeklemesi <strong>kapalıdır</strong>: uygulama
+        verileri Google Drive'a veya başka bir buluta kopyalanmaz. Yedek yalnızca siz dışa
+        aktardığınızda oluşur ve nereye gideceğine siz karar verirsiniz.
+      </p>
+
+      <h2>Verilerinizi silme</h2>
+      <ul>
+        <li>
+          Uygulama içinden: <strong>Ayarlar → Tüm Verileri Sıfırla</strong> — profil dahil
+          her şeyi kalıcı olarak siler
+        </li>
+        <li>Uygulamayı kaldırarak: tüm veriler cihazdan silinir</li>
+      </ul>
+      <p>
+        Bizde saklanan hiçbir veriniz olmadığı için silme talebi göndermenize gerek
+        yoktur.
+      </p>
+
+      <h2>Çocukların gizliliği</h2>
+      <p>Uygulama hiç kimseden — yaşına bakılmaksızın — kişisel veri toplamaz.</p>
+
+      <h2>Değişiklikler</h2>
+      <p>
+        Bu politika değişirse bu sayfa güncellenir ve yukarıdaki tarih yenilenir. Veri
+        toplamaya başlanması gibi esaslı bir değişiklik olursa uygulama içinden
+        bilgilendirilirsiniz.
+      </p>
+
+      <h2>İletişim</h2>
+      <p>
+        Sorularınız için:
+        <a href="mailto:ritenza.apps@gmail.com">ritenza.apps@gmail.com</a>
+      </p>
+
+      <footer>
+        <a href="./privacy.html">English version</a>
+      </footer>
+    </main>
+  </body>
+</html>
