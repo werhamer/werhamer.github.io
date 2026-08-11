@@ -5,8 +5,8 @@ title: Terms of Use
 
 # Reset Terms of Use / Reset KullanÄ±m KoÅŸullarÄ±
 
-Version: 2026-08-09.v1  
-Effective date: 9 August 2026  
+Version: 2026-08-11.v2  
+Effective date: 11 August 2026  
 Publisher: Werhamer  
 Application identifier: `com.werhamer.reset`
 
@@ -20,12 +20,13 @@ Application identifier: `com.werhamer.reset`
 6. **User responsibility.** The user controls the accuracy of entries, device access, backups, exports, support-contact details, permissions and decisions made using the app. The app must not be used unlawfully, to harm another person, or to store another person's sensitive data without authority.
 7. **Privacy.** The Privacy Notice forms part of these terms. Sensitive-data consent is requested separately and can be withdrawn by deleting all local data.
 8. **Exports and third parties.** User-initiated sharing, browser opening and backup destinations are outside Reset's control. The user should review recipients and protect exported files.
-9. **Availability.** Features may change, fail or be discontinued. Users should not rely on Reset as the only copy of important information or the only safety plan. Local backups should be tested before they are needed.
-10. **Intellectual property.** Reset's code, branding and original interface content remain subject to their applicable ownership and licence terms. Users retain rights in content they enter.
-11. **Liability boundary.** To the maximum extent permitted by applicable law, Reset is provided without a promise that it will be uninterrupted, error-free, medically suitable or produce a particular result. Nothing in these terms excludes liability or consumer rights that cannot legally be excluded.
-12. **Termination and consent withdrawal.** The user may stop using Reset and delete local data at any time. Reset may require renewed acceptance when these terms materially change.
-13. **Applicable rights.** Mandatory data-protection, health, platform and consumer-protection rules in the user's jurisdiction remain applicable and prevail over conflicting wording.
-14. **Contact.** Use the repository support channel for non-sensitive support. Never post recovery, health, sexual-life or financial details in a public issue.
+9. **Plus purchases.** Plus prices and billing periods are displayed from the App Store. Subscriptions renew automatically unless cancelled through the Apple account settings at least 24 hours before the current period ends. Lifetime is a non-consumable purchase associated with the Apple account, subject to App Store availability and Apple's terms. Restore Purchases can be used on another compatible device signed in to the same Apple account.
+10. **Availability.** Features may change, fail or be discontinued. Users should not rely on Reset as the only copy of important information or the only safety plan. Local backups should be tested before they are needed.
+11. **Intellectual property.** Reset's code, branding and original interface content remain subject to their applicable ownership and licence terms. Users retain rights in content they enter.
+12. **Liability boundary.** To the maximum extent permitted by applicable law, Reset is provided without a promise that it will be uninterrupted, error-free, medically suitable or produce a particular result. Nothing in these terms excludes liability or consumer rights that cannot legally be excluded.
+13. **Termination and consent withdrawal.** The user may stop using Reset and delete local data at any time. Reset may require renewed acceptance when these terms materially change.
+14. **Applicable rights.** Mandatory data-protection, health, platform and consumer-protection rules in the user's jurisdiction remain applicable and prevail over conflicting wording.
+15. **Contact.** Use the official support page for non-sensitive support. Never post recovery, health, sexual-life or financial details in a public issue.
 
 ## TÃ¼rkÃ§e
 
@@ -37,9 +38,10 @@ Application identifier: `com.werhamer.reset`
 6. **KullanÄ±cÄ± sorumluluÄŸu.** KayÄ±t doÄŸruluÄŸu, cihaz eriÅŸimi, yedekler, dÄ±ÅŸa aktarÄ±mlar, destek kiÅŸileri, izinler ve uygulamaya dayanarak verilen kararlar kullanÄ±cÄ±nÄ±n kontrolÃ¼ndedir. Uygulama hukuka aykÄ±rÄ± amaÃ§la, baÅŸkasÄ±na zarar vermek iÃ§in veya yetki olmadan baÅŸka bir kiÅŸinin hassas verisini saklamak iÃ§in kullanÄ±lamaz.
 7. **Gizlilik.** AydÄ±nlatma ve Gizlilik Metni bu koÅŸullarÄ±n parÃ§asÄ±dÄ±r. Hassas veri aÃ§Ä±k rÄ±zasÄ± ayrÄ± alÄ±nÄ±r ve tÃ¼m yerel veriler silinerek geri Ã§ekilebilir.
 8. **DÄ±ÅŸa aktarma ve Ã¼Ã§Ã¼ncÃ¼ kiÅŸiler.** KullanÄ±cÄ±nÄ±n baÅŸlattÄ±ÄŸÄ± paylaÅŸÄ±m, tarayÄ±cÄ± ve yedek hedefleri Reset'in kontrolÃ¼ dÄ±ÅŸÄ±ndadÄ±r. AlÄ±cÄ±lar kontrol edilmeli ve dÄ±ÅŸa aktarÄ±lan dosyalar korunmalÄ±dÄ±r.
-9. **KullanÄ±labilirlik.** Ã–zellikler deÄŸiÅŸebilir, hata verebilir veya sonlandÄ±rÄ±labilir. Reset Ã¶nemli bilgilerin tek kopyasÄ± ya da tek gÃ¼venlik planÄ± olarak kullanÄ±lmamalÄ±dÄ±r. Yerel yedekler ihtiyaÃ§tan Ã¶nce test edilmelidir.
-10. **Fikri haklar.** Reset kodu, markasÄ± ve Ã¶zgÃ¼n arayÃ¼z iÃ§eriÄŸi ilgili mÃ¼lkiyet ve lisans koÅŸullarÄ±na tabidir. KullanÄ±cÄ± girdiÄŸi iÃ§erik Ã¼zerindeki haklarÄ±nÄ± korur.
-11. **Sorumluluk sÄ±nÄ±rÄ±.** Uygulanabilir hukukun izin verdiÄŸi azami Ã¶lÃ§Ã¼de Reset'in kesintisiz, hatasÄ±z, tÄ±bben uygun veya belirli sonuÃ§ Ã¼reten bir hizmet olduÄŸu taahhÃ¼t edilmez. Hukuken kaldÄ±rÄ±lamayan sorumluluklar ve tÃ¼ketici haklarÄ± bu metinle kaldÄ±rÄ±lamaz.
-12. **SonlandÄ±rma ve rÄ±zanÄ±n geri Ã§ekilmesi.** KullanÄ±cÄ± her zaman kullanÄ±mÄ± bÄ±rakÄ±p yerel verilerini silebilir. Ã–nemli koÅŸul deÄŸiÅŸikliklerinde yeniden kabul istenebilir.
-13. **Uygulanabilir haklar.** KullanÄ±cÄ±nÄ±n bulunduÄŸu yerdeki emredici veri koruma, saÄŸlÄ±k, platform ve tÃ¼ketici kurallarÄ± uygulanmaya devam eder ve Ã§eliÅŸen ifadelerden Ã¼stÃ¼ndÃ¼r.
-14. **Ä°letiÅŸim.** Hassas olmayan destek iÃ§in depo destek kanalÄ± kullanÄ±labilir. Herkese aÃ§Ä±k kayda iyileÅŸme, saÄŸlÄ±k, cinsel yaÅŸam veya mali bilgiler yazÄ±lmamalÄ±dÄ±r.
+9. **Plus satÄ±n alÄ±mlarÄ±.** Plus fiyatlarÄ± ve dÃ¶nemleri App Store'dan alÄ±narak gÃ¶sterilir. Abonelikler, mevcut dÃ¶nem bitmeden en az 24 saat Ã¶nce Apple hesabÄ± ayarlarÄ±ndan iptal edilmezse otomatik yenilenir. Ã–mÃ¼r boyu plan, Apple hesabÄ±yla iliÅŸkilendirilen ve App Store kullanÄ±labilirliÄŸi ile Apple koÅŸullarÄ±na tabi olan sarf edilmeyen bir satÄ±n alÄ±mdÄ±r. AynÄ± Apple hesabÄ±yla giriÅŸ yapÄ±lmÄ±ÅŸ uyumlu baÅŸka bir cihazda SatÄ±n AlÄ±mlarÄ± Geri YÃ¼kle kullanÄ±labilir.
+10. **KullanÄ±labilirlik.** Ã–zellikler deÄŸiÅŸebilir, hata verebilir veya sonlandÄ±rÄ±labilir. Reset Ã¶nemli bilgilerin tek kopyasÄ± ya da tek gÃ¼venlik planÄ± olarak kullanÄ±lmamalÄ±dÄ±r. Yerel yedekler ihtiyaÃ§tan Ã¶nce test edilmelidir.
+11. **Fikri haklar.** Reset kodu, markasÄ± ve Ã¶zgÃ¼n arayÃ¼z iÃ§eriÄŸi ilgili mÃ¼lkiyet ve lisans koÅŸullarÄ±na tabidir. KullanÄ±cÄ± girdiÄŸi iÃ§erik Ã¼zerindeki haklarÄ±nÄ± korur.
+12. **Sorumluluk sÄ±nÄ±rÄ±.** Uygulanabilir hukukun izin verdiÄŸi azami Ã¶lÃ§Ã¼de Reset'in kesintisiz, hatasÄ±z, tÄ±bben uygun veya belirli sonuÃ§ Ã¼reten bir hizmet olduÄŸu taahhÃ¼t edilmez. Hukuken kaldÄ±rÄ±lamayan sorumluluklar ve tÃ¼ketici haklarÄ± bu metinle kaldÄ±rÄ±lamaz.
+13. **SonlandÄ±rma ve rÄ±zanÄ±n geri Ã§ekilmesi.** KullanÄ±cÄ± her zaman kullanÄ±mÄ± bÄ±rakÄ±p yerel verilerini silebilir. Ã–nemli koÅŸul deÄŸiÅŸikliklerinde yeniden kabul istenebilir.
+14. **Uygulanabilir haklar.** KullanÄ±cÄ±nÄ±n bulunduÄŸu yerdeki emredici veri koruma, saÄŸlÄ±k, platform ve tÃ¼ketici kurallarÄ± uygulanmaya devam eder ve Ã§eliÅŸen ifadelerden Ã¼stÃ¼ndÃ¼r.
+15. **Ä°letiÅŸim.** Hassas olmayan destek iÃ§in resmi destek sayfasÄ± kullanÄ±labilir. Herkese aÃ§Ä±k kayda iyileÅŸme, saÄŸlÄ±k, cinsel yaÅŸam veya mali bilgiler yazÄ±lmamalÄ±dÄ±r.
