@@ -5,11 +5,11 @@ title: Privacy Notice
 
 # Reset Privacy Notice / Reset AydÄ±nlatma ve Gizlilik Metni
 
-Version: 2026-08-09.v1  
-Effective date: 9 August 2026  
+Version: 2026-08-11.v2  
+Effective date: 11 August 2026  
 Publisher and data contact: Werhamer  
 Application identifier: `com.werhamer.reset`  
-Support: https://github.com/werhamer/reset-habit-recovery-app/issues
+Support: https://werhamer.github.io/reset-legal/support.html
 
 Do not include health, recovery, sexual-life, financial or other sensitive information in a public support request.
 
@@ -32,7 +32,7 @@ Reset processes only the categories needed for features the user chooses:
 - savings and reclaimed-time estimates;
 - optional support-contact details and message templates;
 - optional voice recordings and their local file references;
-- local entitlement state; and
+- local entitlement state and App Store product/transaction identifiers needed to remember Plus access; and
 - bounded local diagnostics containing timestamp, platform, feature context, sanitized error message and component stack.
 
 These records may reveal health, addiction, sexual-life or financial circumstances and can therefore be sensitive or special-category data under applicable law.
@@ -45,7 +45,7 @@ Before sensitive records are entered, Reset separately provides this notice, req
 
 ### 4. Recipients, transfers and selling
 
-Reset does not automatically transmit core records to the publisher or third parties. It does not sell personal information, run behavioural advertising or use cross-app tracking. There is no publisher-operated international transfer in the current build. User-initiated exports and external links are transfers chosen by the user.
+Reset does not automatically transmit core recovery records to the publisher or third parties. It does not sell personal information, run behavioural advertising or use cross-app tracking. If the user chooses Plus, Apple processes the purchase under Apple's own account, payment and privacy terms. Reset receives StoreKit product and transaction status solely to unlock the purchased features; habit, urge, journal, support-contact and voice-note data is not sent to Apple for billing. There is no publisher-operated international transfer in the current build. User-initiated exports and external links are transfers chosen by the user.
 
 ### 5. Permissions
 
@@ -102,7 +102,7 @@ Hassas veri girilmeden Ã¶nce bu aydÄ±nlatma metni sunulur; hassas verilerin 
 
 ### 4. AlÄ±cÄ±lar, aktarÄ±mlar ve satÄ±ÅŸ
 
-Reset temel kayÄ±tlarÄ± yayÄ±ncÄ±ya veya Ã¼Ã§Ã¼ncÃ¼ kiÅŸilere otomatik olarak gÃ¶ndermez; kiÅŸisel veri satmaz, davranÄ±ÅŸsal reklam ya da uygulamalar arasÄ± takip yapmaz. Mevcut sÃ¼rÃ¼mde yayÄ±ncÄ± tarafÄ±ndan iÅŸletilen uluslararasÄ± aktarÄ±m yoktur. KullanÄ±cÄ±nÄ±n dÄ±ÅŸa aktarma ve harici baÄŸlantÄ± iÅŸlemleri kendi seÃ§tiÄŸi aktarÄ±mlardÄ±r.
+Reset temel toparlanma kayÄ±tlarÄ±nÄ± yayÄ±ncÄ±ya veya Ã¼Ã§Ã¼ncÃ¼ kiÅŸilere otomatik olarak gÃ¶ndermez; kiÅŸisel veri satmaz, davranÄ±ÅŸsal reklam ya da uygulamalar arasÄ± takip yapmaz. KullanÄ±cÄ± Plus satÄ±n almayÄ± seÃ§erse Ã¶deme, Apple'Ä±n hesap, Ã¶deme ve gizlilik koÅŸullarÄ± kapsamÄ±nda Apple tarafÄ±ndan iÅŸlenir. Reset yalnÄ±zca satÄ±n alÄ±nan Ã¶zellikleri aÃ§mak iÃ§in StoreKit Ã¼rÃ¼n ve iÅŸlem durumunu alÄ±r; alÄ±ÅŸkanlÄ±k, dÃ¼rtÃ¼, gÃ¼nlÃ¼k, destek kiÅŸisi ve sesli not verileri Ã¶deme amacÄ±yla Apple'a gÃ¶nderilmez. Mevcut sÃ¼rÃ¼mde yayÄ±ncÄ± tarafÄ±ndan iÅŸletilen uluslararasÄ± aktarÄ±m yoktur. KullanÄ±cÄ±nÄ±n dÄ±ÅŸa aktarma ve harici baÄŸlantÄ± iÅŸlemleri kendi seÃ§tiÄŸi aktarÄ±mlardÄ±r.
 
 ### 5. Ä°zinler
 
