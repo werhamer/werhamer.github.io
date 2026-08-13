@@ -5,11 +5,11 @@ title: Reset Support
 
 ## Help with Reset
 
-For support, open a request in the [public support tracker](https://github.com/werhamer/reset-legal/issues).
+For private support, email [ritenza.apps@gmail.com](mailto:ritenza.apps@gmail.com).
 
-Do not include recovery notes, health information, sexual-life information, financial information, recordings, backups or other sensitive personal data in a public request.
+Send only the minimum technical information needed. Do not attach recovery notes, health information, sexual-life information, financial information, recordings or backups unless support explicitly requests a safe transfer method.
 
-## Before opening a request
+## Before sending a request
 
 1. Update Reset to the newest App Store version.
 2. Restart the application and the device.
@@ -22,8 +22,8 @@ Reset cannot provide medical or emergency assistance. If there is immediate dang
 
 ## Destek
 
-Destek iÃ§in [herkese aÃ§Ä±k destek sayfasÄ±nda](https://github.com/werhamer/reset-legal/issues) bir kayÄ±t oluÅŸturabilirsin.
+Özel destek için [ritenza.apps@gmail.com](mailto:ritenza.apps@gmail.com) adresine e-posta gönderebilirsin.
 
-Herkese aÃ§Ä±k kayÄ±tlara toparlanma notlarÄ±, saÄŸlÄ±k bilgileri, cinsel yaÅŸama iliÅŸkin bilgiler, mali bilgiler, ses kayÄ±tlarÄ±, yedek dosyalarÄ± veya baÅŸka hassas kiÅŸisel veriler ekleme.
+Yalnızca gereken en az teknik bilgiyi gönder. Destek güvenli bir aktarım yöntemi açıkça istemedikçe toparlanma notlarını, sağlık veya cinsel yaşam bilgilerini, mali bilgileri, ses kayıtlarını ya da yedek dosyalarını e-postaya ekleme.
 
-Reset tÄ±bbi yardÄ±m veya acil mÃ¼dahale sunmaz. Acil tehlike, aÄŸÄ±r yoksunluk, doz aÅŸÄ±mÄ±, bilinÃ§ kaybÄ± ya da kendine zarar verme riski varsa yerel acil yardÄ±m hattÄ±na ve yetkin bir saÄŸlÄ±k uzmanÄ±na baÅŸvur.
+Reset tıbbi yardım veya acil müdahale sunmaz. Acil tehlike, ağır yoksunluk, doz aşımı, bilinç kaybı ya da kendine zarar verme riski varsa yerel acil yardım hattına ve yetkin bir sağlık uzmanına başvur.

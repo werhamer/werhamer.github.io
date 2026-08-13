@@ -3,12 +3,13 @@ layout: page
 title: Terms of Use
 ---
 
-# Reset Terms of Use / Reset KullanÄ±m KoÅŸullarÄ±
+# Reset Terms of Use / Reset Kullanım Koşulları
 
-Version: 2026-08-11.v2  
-Effective date: 11 August 2026  
-Publisher: Werhamer  
+Version: 2026-08-13.v3
+Effective date: 13 August 2026
+Publisher: Werhamer
 Application identifier: `com.werhamer.reset`
+Support: ritenza.apps@gmail.com
 
 ## English
 
@@ -26,22 +27,22 @@ Application identifier: `com.werhamer.reset`
 12. **Liability boundary.** To the maximum extent permitted by applicable law, Reset is provided without a promise that it will be uninterrupted, error-free, medically suitable or produce a particular result. Nothing in these terms excludes liability or consumer rights that cannot legally be excluded.
 13. **Termination and consent withdrawal.** The user may stop using Reset and delete local data at any time. Reset may require renewed acceptance when these terms materially change.
 14. **Applicable rights.** Mandatory data-protection, health, platform and consumer-protection rules in the user's jurisdiction remain applicable and prevail over conflicting wording.
-15. **Contact.** Use the official support page for non-sensitive support. Never post recovery, health, sexual-life or financial details in a public issue.
+15. **Contact.** Use `ritenza.apps@gmail.com` for non-sensitive support. Send only the minimum diagnostic information needed and do not email recovery, health, sexual-life or financial details unless support explicitly requests a safe transfer method.
 
-## TÃ¼rkÃ§e
+## Türkçe
 
-1. **Uygunluk.** Reset yalnÄ±zca 18 yaÅŸ ve Ã¼zerindeki kullanÄ±cÄ±lar iÃ§indir. KullanÄ±cÄ±, uygulamayÄ± kullanarak bu koÅŸulu karÅŸÄ±ladÄ±ÄŸÄ±nÄ± ve koÅŸullarÄ± hukuken kabul edebildiÄŸini doÄŸrular.
-2. **AmaÃ§.** Reset; istenmeyen alÄ±ÅŸkanlÄ±klar ve baÄŸÄ±mlÄ±lÄ±k davranÄ±ÅŸlarÄ± iÃ§in isteÄŸe baÄŸlÄ± Ã¶z yÃ¶netim, gÃ¼nlÃ¼k, sayaÃ§, hatÄ±rlatma ve eÄŸitim Ã¶zellikleri sunar.
-3. **TÄ±bbi hizmet deÄŸildir.** Reset tÄ±bbi cihaz, klinisyen, teÅŸhis, tedavi, detoks hizmeti veya sonuÃ§ garantisi deÄŸildir. TÄ±bbi kararlarda yetkin profesyonel gÃ¶rÃ¼ÅŸ gerekir. Alkol veya bazÄ± maddeleri aniden bÄ±rakmak tehlikeli olabilir.
-4. **Acil durum izlemesi yoktur.** Reset kullanÄ±cÄ±yÄ± izlemez, acil durum tespit etmez, acil servisle iletiÅŸim kurmaz ve destek kiÅŸisinin yanÄ±tÄ±nÄ± garanti etmez. YakÄ±n tehlikede yerel acil servise baÅŸvurulmalÄ±dÄ±r.
-5. **Otomatik Ã§Ä±ktÄ±lar.** Puanlar, risk saatleri, korelasyonlar, kilometre taÅŸlarÄ±, tasarruf ve iyileÅŸme iÃ§gÃ¶rÃ¼leri kullanÄ±cÄ± verisinden Ã¼retilen tahminlerdir. Eksik, hatalÄ± veya kiÅŸiye uygun olmayabilir; profesyonel tavsiye ya da kesin neden-sonuÃ§ olarak kullanÄ±lmamalÄ±dÄ±r.
-6. **KullanÄ±cÄ± sorumluluÄŸu.** KayÄ±t doÄŸruluÄŸu, cihaz eriÅŸimi, yedekler, dÄ±ÅŸa aktarÄ±mlar, destek kiÅŸileri, izinler ve uygulamaya dayanarak verilen kararlar kullanÄ±cÄ±nÄ±n kontrolÃ¼ndedir. Uygulama hukuka aykÄ±rÄ± amaÃ§la, baÅŸkasÄ±na zarar vermek iÃ§in veya yetki olmadan baÅŸka bir kiÅŸinin hassas verisini saklamak iÃ§in kullanÄ±lamaz.
-7. **Gizlilik.** AydÄ±nlatma ve Gizlilik Metni bu koÅŸullarÄ±n parÃ§asÄ±dÄ±r. Hassas veri aÃ§Ä±k rÄ±zasÄ± ayrÄ± alÄ±nÄ±r ve tÃ¼m yerel veriler silinerek geri Ã§ekilebilir.
-8. **DÄ±ÅŸa aktarma ve Ã¼Ã§Ã¼ncÃ¼ kiÅŸiler.** KullanÄ±cÄ±nÄ±n baÅŸlattÄ±ÄŸÄ± paylaÅŸÄ±m, tarayÄ±cÄ± ve yedek hedefleri Reset'in kontrolÃ¼ dÄ±ÅŸÄ±ndadÄ±r. AlÄ±cÄ±lar kontrol edilmeli ve dÄ±ÅŸa aktarÄ±lan dosyalar korunmalÄ±dÄ±r.
-9. **Plus satÄ±n alÄ±mlarÄ±.** Plus fiyatlarÄ± ve dÃ¶nemleri App Store'dan alÄ±narak gÃ¶sterilir. Abonelikler, mevcut dÃ¶nem bitmeden en az 24 saat Ã¶nce Apple hesabÄ± ayarlarÄ±ndan iptal edilmezse otomatik yenilenir. Ã–mÃ¼r boyu plan, Apple hesabÄ±yla iliÅŸkilendirilen ve App Store kullanÄ±labilirliÄŸi ile Apple koÅŸullarÄ±na tabi olan sarf edilmeyen bir satÄ±n alÄ±mdÄ±r. AynÄ± Apple hesabÄ±yla giriÅŸ yapÄ±lmÄ±ÅŸ uyumlu baÅŸka bir cihazda SatÄ±n AlÄ±mlarÄ± Geri YÃ¼kle kullanÄ±labilir.
-10. **KullanÄ±labilirlik.** Ã–zellikler deÄŸiÅŸebilir, hata verebilir veya sonlandÄ±rÄ±labilir. Reset Ã¶nemli bilgilerin tek kopyasÄ± ya da tek gÃ¼venlik planÄ± olarak kullanÄ±lmamalÄ±dÄ±r. Yerel yedekler ihtiyaÃ§tan Ã¶nce test edilmelidir.
-11. **Fikri haklar.** Reset kodu, markasÄ± ve Ã¶zgÃ¼n arayÃ¼z iÃ§eriÄŸi ilgili mÃ¼lkiyet ve lisans koÅŸullarÄ±na tabidir. KullanÄ±cÄ± girdiÄŸi iÃ§erik Ã¼zerindeki haklarÄ±nÄ± korur.
-12. **Sorumluluk sÄ±nÄ±rÄ±.** Uygulanabilir hukukun izin verdiÄŸi azami Ã¶lÃ§Ã¼de Reset'in kesintisiz, hatasÄ±z, tÄ±bben uygun veya belirli sonuÃ§ Ã¼reten bir hizmet olduÄŸu taahhÃ¼t edilmez. Hukuken kaldÄ±rÄ±lamayan sorumluluklar ve tÃ¼ketici haklarÄ± bu metinle kaldÄ±rÄ±lamaz.
-13. **SonlandÄ±rma ve rÄ±zanÄ±n geri Ã§ekilmesi.** KullanÄ±cÄ± her zaman kullanÄ±mÄ± bÄ±rakÄ±p yerel verilerini silebilir. Ã–nemli koÅŸul deÄŸiÅŸikliklerinde yeniden kabul istenebilir.
-14. **Uygulanabilir haklar.** KullanÄ±cÄ±nÄ±n bulunduÄŸu yerdeki emredici veri koruma, saÄŸlÄ±k, platform ve tÃ¼ketici kurallarÄ± uygulanmaya devam eder ve Ã§eliÅŸen ifadelerden Ã¼stÃ¼ndÃ¼r.
-15. **Ä°letiÅŸim.** Hassas olmayan destek iÃ§in resmi destek sayfasÄ± kullanÄ±labilir. Herkese aÃ§Ä±k kayda iyileÅŸme, saÄŸlÄ±k, cinsel yaÅŸam veya mali bilgiler yazÄ±lmamalÄ±dÄ±r.
+1. **Uygunluk.** Reset yalnızca 18 yaş ve üzerindeki kullanıcılar içindir. Kullanıcı, uygulamayı kullanarak bu koşulu karşıladığını ve koşulları hukuken kabul edebildiğini doğrular.
+2. **Amaç.** Reset; istenmeyen alışkanlıklar ve bağımlılık davranışları için isteğe bağlı öz yönetim, günlük, sayaç, hatırlatma ve eğitim özellikleri sunar.
+3. **Tıbbi hizmet değildir.** Reset tıbbi cihaz, klinisyen, teşhis, tedavi, detoks hizmeti veya sonuç garantisi değildir. Tıbbi kararlarda yetkin profesyonel görüş gerekir. Alkol veya bazı maddeleri aniden bırakmak tehlikeli olabilir.
+4. **Acil durum izlemesi yoktur.** Reset kullanıcıyı izlemez, acil durum tespit etmez, acil servisle iletişim kurmaz ve destek kişisinin yanıtını garanti etmez. Yakın tehlikede yerel acil servise başvurulmalıdır.
+5. **Otomatik çıktılar.** Puanlar, risk saatleri, korelasyonlar, kilometre taşları, tasarruf ve iyileşme içgörüleri kullanıcı verisinden üretilen tahminlerdir. Eksik, hatalı veya kişiye uygun olmayabilir; profesyonel tavsiye ya da kesin neden-sonuç olarak kullanılmamalıdır.
+6. **Kullanıcı sorumluluğu.** Kayıt doğruluğu, cihaz erişimi, yedekler, dışa aktarımlar, destek kişileri, izinler ve uygulamaya dayanarak verilen kararlar kullanıcının kontrolündedir. Uygulama hukuka aykırı amaçla, başkasına zarar vermek için veya yetki olmadan başka bir kişinin hassas verisini saklamak için kullanılamaz.
+7. **Gizlilik.** Aydınlatma ve Gizlilik Metni bu koşulların parçasıdır. Hassas veri açık rızası ayrı alınır ve tüm yerel veriler silinerek geri çekilebilir.
+8. **Dışa aktarma ve üçüncü kişiler.** Kullanıcının başlattığı paylaşım, tarayıcı ve yedek hedefleri Reset'in kontrolü dışındadır. Alıcılar kontrol edilmeli ve dışa aktarılan dosyalar korunmalıdır.
+9. **Plus satın alımları.** Plus fiyatları ve dönemleri App Store'dan alınarak gösterilir. Abonelikler, mevcut dönem bitmeden en az 24 saat önce Apple hesabı ayarlarından iptal edilmezse otomatik yenilenir. Ömür boyu plan, Apple hesabıyla ilişkilendirilen ve App Store kullanılabilirliği ile Apple koşullarına tabi olan sarf edilmeyen bir satın alımdır. Aynı Apple hesabıyla giriş yapılmış uyumlu başka bir cihazda Satın Alımları Geri Yükle kullanılabilir.
+10. **Kullanılabilirlik.** Özellikler değişebilir, hata verebilir veya sonlandırılabilir. Reset önemli bilgilerin tek kopyası ya da tek güvenlik planı olarak kullanılmamalıdır. Yerel yedekler ihtiyaçtan önce test edilmelidir.
+11. **Fikri haklar.** Reset kodu, markası ve özgün arayüz içeriği ilgili mülkiyet ve lisans koşullarına tabidir. Kullanıcı girdiği içerik üzerindeki haklarını korur.
+12. **Sorumluluk sınırı.** Uygulanabilir hukukun izin verdiği azami ölçüde Reset'in kesintisiz, hatasız, tıbben uygun veya belirli sonuç üreten bir hizmet olduğu taahhüt edilmez. Hukuken kaldırılamayan sorumluluklar ve tüketici hakları bu metinle kaldırılamaz.
+13. **Sonlandırma ve rızanın geri çekilmesi.** Kullanıcı her zaman kullanımı bırakıp yerel verilerini silebilir. Önemli koşul değişikliklerinde yeniden kabul istenebilir.
+14. **Uygulanabilir haklar.** Kullanıcının bulunduğu yerdeki emredici veri koruma, sağlık, platform ve tüketici kuralları uygulanmaya devam eder ve çelişen ifadelerden üstündür.
+15. **İletişim.** Hassas olmayan destek için `ritenza.apps@gmail.com` adresi kullanılabilir. Yalnızca gereken en az teknik bilgiyi gönder; destek güvenli bir aktarım yöntemi açıkça istemedikçe iyileşme, sağlık, cinsel yaşam veya mali bilgileri e-postaya ekleme.

@@ -3,15 +3,16 @@ layout: page
 title: Privacy Notice
 ---
 
-# Reset Privacy Notice / Reset AydÄ±nlatma ve Gizlilik Metni
+# Reset Privacy Notice / Reset Aydınlatma ve Gizlilik Metni
 
-Version: 2026-08-11.v2  
-Effective date: 11 August 2026  
-Publisher and data contact: Werhamer  
-Application identifier: `com.werhamer.reset`  
+Version: 2026-08-13.v3
+Effective date: 13 August 2026
+Publisher and data contact: Werhamer
+Application identifier: `com.werhamer.reset`
 Support: https://werhamer.github.io/reset-legal/support.html
+Email: ritenza.apps@gmail.com
 
-Do not include health, recovery, sexual-life, financial or other sensitive information in a public support request.
+Support is handled by private email. Send only the minimum diagnostic information needed and do not attach recovery notes, health information, sexual-life information, financial information, recordings or backups unless support explicitly requests a safe transfer method.
 
 ## English
 
@@ -82,59 +83,59 @@ Reset is not a medical device, healthcare provider, diagnosis, treatment, emerge
 
 Material changes receive a new document version. The app requires a fresh, separate acknowledgement and consent before continued sensitive-data processing under the new version.
 
-## TÃ¼rkÃ§e
+## Türkçe
 
-### 1. Kapsam ve tasarÄ±m
+### 1. Kapsam ve tasarım
 
-Reset, istenmeyen alÄ±ÅŸkanlÄ±klar ve baÄŸÄ±mlÄ±lÄ±k davranÄ±ÅŸlarÄ±nda Ã¶z yÃ¶netim amacÄ±yla geliÅŸtirilen Ã§evrimdÄ±ÅŸÄ± Ã¶ncelikli bir uygulamadÄ±r. YayÄ±ncÄ±; Reset hesabÄ±, reklam SDK'sÄ±, analiz servisi veya bulut veritabanÄ± sunmaz. Temel kayÄ±tlar kullanÄ±cÄ±nÄ±n cihazÄ±ndaki yerel uygulama veritabanÄ±nda iÅŸlenir.
+Reset, istenmeyen alışkanlıklar ve bağımlılık davranışlarında öz yönetim amacıyla geliştirilen çevrimdışı öncelikli bir uygulamadır. Yayıncı; Reset hesabı, reklam SDK'sı, analiz servisi veya bulut veritabanı sunmaz. Temel kayıtlar kullanıcının cihazındaki yerel uygulama veritabanında işlenir.
 
-Harici hukuk/destek baÄŸlantÄ±sÄ± aÃ§mak, yedek veya PDF dÄ±ÅŸa aktarmak ya da dosya paylaÅŸmak kullanÄ±cÄ±nÄ±n bilinÃ§li iÅŸlemidir. Bilgi Reset dÄ±ÅŸÄ±na Ã§Ä±ktÄ±ktan sonra seÃ§ilen tarayÄ±cÄ±, paylaÅŸÄ±m hedefi, yedek saÄŸlayÄ±cÄ±sÄ± veya alÄ±cÄ±nÄ±n kendi gizlilik ve gÃ¼venlik koÅŸullarÄ± uygulanÄ±r.
+Harici hukuk/destek bağlantısı açmak, yedek veya PDF dışa aktarmak ya da dosya paylaşmak kullanıcının bilinçli işlemidir. Bilgi Reset dışına çıktıktan sonra seçilen tarayıcı, paylaşım hedefi, yedek sağlayıcısı veya alıcının kendi gizlilik ve güvenlik koşulları uygulanır.
 
 ### 2. Veri kategorileri
 
-SeÃ§ilen Ã¶zelliklere gÃ¶re profil ve ayarlar; iyileÅŸme hedefi ve davranÄ±ÅŸ tÃ¼rÃ¼; dÃ¼rtÃ¼, yoÄŸunluk, tetikleyici, duygu, ortam, mÃ¼dahale ve sonuÃ§; check-in, ruh hali, gÃ¼nlÃ¼k/BDT notlarÄ±; tasarruf ve geri kazanÄ±lan sÃ¼re tahminleri; isteÄŸe baÄŸlÄ± destek kiÅŸileri, ses kayÄ±tlarÄ± ve cihaz iÃ§i hata kayÄ±tlarÄ± iÅŸlenebilir. Bu kayÄ±tlar saÄŸlÄ±k, baÄŸÄ±mlÄ±lÄ±k, cinsel yaÅŸam veya mali durum hakkÄ±nda hassas bilgi ortaya Ã§Ä±karabilir.
+Seçilen özelliklere göre profil ve ayarlar; iyileşme hedefi ve davranış türü; dürtü, yoğunluk, tetikleyici, duygu, ortam, müdahale ve sonuç; check-in, ruh hali, günlük/BDT notları; tasarruf ve geri kazanılan süre tahminleri; isteğe bağlı destek kişileri, ses kayıtları ve cihaz içi hata kayıtları işlenebilir. Bu kayıtlar sağlık, bağımlılık, cinsel yaşam veya mali durum hakkında hassas bilgi ortaya çıkarabilir.
 
-### 3. AmaÃ§ ve hukuki dayanak
+### 3. Amaç ve hukuki dayanak
 
-Veriler seÃ§ilen iyileÅŸme araÃ§larÄ±nÄ± sunmak, sayaÃ§ ve Ã¶zet Ã¼retmek, cihaz iÃ§i iÃ§gÃ¶rÃ¼ hesaplamak, kullanÄ±cÄ± yedeÄŸini geri yÃ¼klemek, arayÃ¼zÃ¼ korumak, isteÄŸe baÄŸlÄ± hatÄ±rlatmalarÄ± planlamak ve hatalarÄ± yerel olarak teÅŸhis etmek iÃ§in kullanÄ±lÄ±r.
+Veriler seçilen iyileşme araçlarını sunmak, sayaç ve özet üretmek, cihaz içi içgörü hesaplamak, kullanıcı yedeğini geri yüklemek, arayüzü korumak, isteğe bağlı hatırlatmaları planlamak ve hataları yerel olarak teşhis etmek için kullanılır.
 
-Hassas veri girilmeden Ã¶nce bu aydÄ±nlatma metni sunulur; hassas verilerin cihazda iÅŸlenmesi iÃ§in aÃ§Ä±k rÄ±za, KullanÄ±m KoÅŸullarÄ± iÃ§in ayrÄ± kabul ve 18+ beyanÄ± ayrÄ± ayrÄ± alÄ±nÄ±r. RÄ±za, tÃ¼m yerel verileri silme kontrolÃ¼yle geri Ã§ekilebilir. Uygulanabilir zorunlu hukuk kurallarÄ± ve tÃ¼ketici haklarÄ± saklÄ±dÄ±r.
+Hassas veri girilmeden önce bu aydınlatma metni sunulur; hassas verilerin cihazda işlenmesi için açık rıza, Kullanım Koşulları için ayrı kabul ve 18+ beyanı ayrı ayrı alınır. Rıza, tüm yerel verileri silme kontrolüyle geri çekilebilir. Uygulanabilir zorunlu hukuk kuralları ve tüketici hakları saklıdır.
 
-### 4. AlÄ±cÄ±lar, aktarÄ±mlar ve satÄ±ÅŸ
+### 4. Alıcılar, aktarımlar ve satış
 
-Reset temel toparlanma kayÄ±tlarÄ±nÄ± yayÄ±ncÄ±ya veya Ã¼Ã§Ã¼ncÃ¼ kiÅŸilere otomatik olarak gÃ¶ndermez; kiÅŸisel veri satmaz, davranÄ±ÅŸsal reklam ya da uygulamalar arasÄ± takip yapmaz. KullanÄ±cÄ± Plus satÄ±n almayÄ± seÃ§erse Ã¶deme, Apple'Ä±n hesap, Ã¶deme ve gizlilik koÅŸullarÄ± kapsamÄ±nda Apple tarafÄ±ndan iÅŸlenir. Reset yalnÄ±zca satÄ±n alÄ±nan Ã¶zellikleri aÃ§mak iÃ§in StoreKit Ã¼rÃ¼n ve iÅŸlem durumunu alÄ±r; alÄ±ÅŸkanlÄ±k, dÃ¼rtÃ¼, gÃ¼nlÃ¼k, destek kiÅŸisi ve sesli not verileri Ã¶deme amacÄ±yla Apple'a gÃ¶nderilmez. Mevcut sÃ¼rÃ¼mde yayÄ±ncÄ± tarafÄ±ndan iÅŸletilen uluslararasÄ± aktarÄ±m yoktur. KullanÄ±cÄ±nÄ±n dÄ±ÅŸa aktarma ve harici baÄŸlantÄ± iÅŸlemleri kendi seÃ§tiÄŸi aktarÄ±mlardÄ±r.
+Reset temel toparlanma kayıtlarını yayıncıya veya üçüncü kişilere otomatik olarak göndermez; kişisel veri satmaz, davranışsal reklam ya da uygulamalar arası takip yapmaz. Kullanıcı Plus satın almayı seçerse ödeme, Apple'ın hesap, ödeme ve gizlilik koşulları kapsamında Apple tarafından işlenir. Reset yalnızca satın alınan özellikleri açmak için StoreKit ürün ve işlem durumunu alır; alışkanlık, dürtü, günlük, destek kişisi ve sesli not verileri ödeme amacıyla Apple'a gönderilmez. Mevcut sürümde yayıncı tarafından işletilen uluslararası aktarım yoktur. Kullanıcının dışa aktarma ve harici bağlantı işlemleri kendi seçtiği aktarımlardır.
 
-### 5. Ä°zinler
+### 5. İzinler
 
-- **Mikrofon:** yalnÄ±zca KayÄ±t dÃ¼ÄŸmesine dokunulduktan sonra isteÄŸe baÄŸlÄ± yerel sesli not iÃ§in istenir.
-- **Bildirim ve aÃ§Ä±lÄ±ÅŸ sonrasÄ± planlama:** kullanÄ±cÄ±nÄ±n seÃ§tiÄŸi isteÄŸe baÄŸlÄ± hatÄ±rlatmalarda kullanÄ±lÄ±r. Gizlilik modu hassas iÃ§eriÄŸi saklayabilir.
-- **Biyometri:** doÄŸrulamayÄ± iÅŸletim sistemi yapar; Reset biyometrik ÅŸablon almaz veya saklamaz.
-- **TitreÅŸim/haptik:** isteÄŸe baÄŸlÄ± etkileÅŸim geri bildirimi ve kriz egzersizlerinde kullanÄ±lÄ±r.
+- **Mikrofon:** yalnızca Kayıt düğmesine dokunulduktan sonra isteğe bağlı yerel sesli not için istenir.
+- **Bildirim ve açılış sonrası planlama:** kullanıcının seçtiği isteğe bağlı hatırlatmalarda kullanılır. Gizlilik modu hassas içeriği saklayabilir.
+- **Biyometri:** doğrulamayı işletim sistemi yapar; Reset biyometrik şablon almaz veya saklamaz.
+- **Titreşim/haptik:** isteğe bağlı etkileşim geri bildirimi ve kriz egzersizlerinde kullanılır.
 
-Ä°zinler reddedilebilir veya cihaz ayarlarÄ±ndan geri alÄ±nabilir. Mikrofon, bildirim ve biyometri olmadan temel manuel takip kullanÄ±labilir.
+İzinler reddedilebilir veya cihaz ayarlarından geri alınabilir. Mikrofon, bildirim ve biyometri olmadan temel manuel takip kullanılabilir.
 
-### 6. Saklama, silme ve taÅŸÄ±nabilirlik
+### 6. Saklama, silme ve taşınabilirlik
 
-KayÄ±tlar kullanÄ±cÄ± dÃ¼zenleyene/silene, uygulama depolamasÄ±nÄ± temizleyene, iÅŸletim sisteminin iÅŸleyiÅŸine gÃ¶re uygulamayÄ± kaldÄ±rana veya baÅŸka bir yedeÄŸi iÃ§e aktararak deÄŸiÅŸtirene kadar cihazda kalÄ±r. Ayarlar JSON/PDF dÄ±ÅŸa aktarma ve kalÄ±cÄ± tÃ¼mÃ¼nÃ¼ silme iÅŸlemi sunar. TÃ¼mÃ¼nÃ¼ sil; veritabanÄ± tablolarÄ±nÄ±, baÄŸlÄ± ses dosyalarÄ±nÄ±, yerel hata kayÄ±tlarÄ±nÄ± ve eski yerel depolarÄ± kaldÄ±rÄ±r. Ä°ÅŸletim sistemi bir medya dosyasÄ±nÄ± silemezse uygulama tam silindi iddiasÄ± yerine baÅŸarÄ±sÄ±z dosya sayÄ±sÄ±nÄ± bildirir.
+Kayıtlar kullanıcı düzenleyene/silene, uygulama depolamasını temizleyene, işletim sisteminin işleyişine göre uygulamayı kaldırana veya başka bir yedeği içe aktararak değiştirene kadar cihazda kalır. Ayarlar JSON/PDF dışa aktarma ve kalıcı tümünü silme işlemi sunar. Tümünü sil; veritabanı tablolarını, bağlı ses dosyalarını, yerel hata kayıtlarını ve eski yerel depoları kaldırır. İşletim sistemi bir medya dosyasını silemezse uygulama tam silindi iddiası yerine başarısız dosya sayısını bildirir.
 
-DÄ±ÅŸa aktarÄ±lan yedek ve raporlar, Reset iÃ§indeki veri silindiÄŸinde hedef konumdan silinmez; kullanÄ±cÄ± bu kopyalarÄ± ayrÄ±ca kaldÄ±rmalÄ±dÄ±r.
+Dışa aktarılan yedek ve raporlar, Reset içindeki veri silindiğinde hedef konumdan silinmez; kullanıcı bu kopyaları ayrıca kaldırmalıdır.
 
-### 7. GÃ¼venlik
+### 7. Güvenlik
 
-Reset iÅŸletim sistemi uygulama alanÄ±, isteÄŸe baÄŸlÄ± biyometrik arayÃ¼z kilidi, gizlilik perdesi, bildirim iÃ§eriÄŸi gizleme, doÄŸrulanan yedek ÅŸemalarÄ± ve Ã§evrimdÄ±ÅŸÄ± build kontrolÃ¼ kullanÄ±r. HiÃ§bir yazÄ±lÄ±m mutlak gÃ¼venlik sÃ¶zÃ¼ veremez. CihazÄ±n ele geÃ§irilmesi, gÃ¼vensiz yedekler, kilidi aÃ§Ä±k cihaza eriÅŸim ve seÃ§ilen paylaÅŸÄ±m hedefleri risk olmaya devam eder. Yerel SQLite veritabanÄ± uÃ§tan uca ÅŸifreli olarak tanÄ±mlanmaz.
+Reset işletim sistemi uygulama alanı, isteğe bağlı biyometrik arayüz kilidi, gizlilik perdesi, bildirim içeriği gizleme, doğrulanan yedek şemaları ve çevrimdışı build kontrolü kullanır. Hiçbir yazılım mutlak güvenlik sözü veremez. Cihazın ele geçirilmesi, güvensiz yedekler, kilidi açık cihaza erişim ve seçilen paylaşım hedefleri risk olmaya devam eder. Yerel SQLite veritabanı uçtan uca şifreli olarak tanımlanmaz.
 
-### 8. Haklar ve seÃ§imler
+### 8. Haklar ve seçimler
 
-KullanÄ±cÄ± kayÄ±tlarÄ± gÃ¶rebilir/dÃ¼zeltebilir, dÄ±ÅŸa aktarabilir, isteÄŸe baÄŸlÄ± izinleri kapatabilir, rÄ±zasÄ±nÄ± geri Ã§ekebilir ve yerel kayÄ±tlarÄ± silebilir. YayÄ±ncÄ± hesap iÅŸletmediÄŸi ve yerel veritabanÄ±nÄ± almadÄ±ÄŸÄ± iÃ§in normalde kullanÄ±cÄ±nÄ±n cihaz iÃ§i kayÄ±tlarÄ±nÄ± tanÄ±mlayamaz veya getirip silemez. AydÄ±nlatma sorularÄ±, hassas bilgi paylaÅŸmadan destek kanalÄ±na iletilebilir. Uygulanabilir veri koruma ve tÃ¼ketici mevzuatÄ±ndaki haklar saklÄ±dÄ±r.
+Kullanıcı kayıtları görebilir/düzeltebilir, dışa aktarabilir, isteğe bağlı izinleri kapatabilir, rızasını geri çekebilir ve yerel kayıtları silebilir. Yayıncı hesap işletmediği ve yerel veritabanını almadığı için normalde kullanıcının cihaz içi kayıtlarını tanımlayamaz veya getirip silemez. Aydınlatma soruları, hassas bilgi paylaşmadan destek kanalına iletilebilir. Uygulanabilir veri koruma ve tüketici mevzuatındaki haklar saklıdır.
 
-### 9. Ã‡ocuklar
+### 9. Çocuklar
 
-Reset yalnÄ±zca 18 yaÅŸ ve Ã¼zerindeki kiÅŸiler iÃ§indir; Ã§ocuklara yÃ¶nelik deÄŸildir ve bir Ã§ocuÄŸun hassas verilerini girmek iÃ§in kullanÄ±lmamalÄ±dÄ±r.
+Reset yalnızca 18 yaş ve üzerindeki kişiler içindir; çocuklara yönelik değildir ve bir çocuğun hassas verilerini girmek için kullanılmamalıdır.
 
-### 10. TÄ±bbi ve acil durum sÄ±nÄ±rÄ±
+### 10. Tıbbi ve acil durum sınırı
 
-Reset tÄ±bbi cihaz, saÄŸlÄ±k hizmeti, teÅŸhis, tedavi, acil servis veya iyileÅŸme garantisi deÄŸildir. Otomatik iÃ§gÃ¶rÃ¼ler kullanÄ±cÄ± kayÄ±tlarÄ±na dayanan tahminlerdir ve eksik/hatalÄ± olabilir. Åiddetli alkol veya madde yoksunluÄŸu, doz aÅŸÄ±mÄ±, nÃ¶bet, gÃ¶ÄŸÃ¼s aÄŸrÄ±sÄ±, bilinÃ§ kaybÄ± ya da kendine zarar riski derhal yerel acil yardÄ±m ve yetkin profesyonel bakÄ±m gerektirir.
+Reset tıbbi cihaz, sağlık hizmeti, teşhis, tedavi, acil servis veya iyileşme garantisi değildir. Otomatik içgörüler kullanıcı kayıtlarına dayanan tahminlerdir ve eksik/hatalı olabilir. Şiddetli alkol veya madde yoksunluğu, doz aşımı, nöbet, göğüs ağrısı, bilinç kaybı ya da kendine zarar riski derhal yerel acil yardım ve yetkin profesyonel bakım gerektirir.
 
-### 11. DeÄŸiÅŸiklikler
+### 11. Değişiklikler
 
-Ã–nemli deÄŸiÅŸikliklerde belge sÃ¼rÃ¼mÃ¼ yenilenir. Yeni sÃ¼rÃ¼m kapsamÄ±nda hassas veri iÅŸlemeye devam etmeden Ã¶nce uygulama yeniden, ayrÄ± aydÄ±nlatma teyidi ve aÃ§Ä±k rÄ±za ister.
+Önemli değişikliklerde belge sürümü yenilenir. Yeni sürüm kapsamında hassas veri işlemeye devam etmeden önce uygulama yeniden, ayrı aydınlatma teyidi ve açık rıza ister.
