@@ -1,2 +1,2 @@
 # reset-legal
-Official legal and support pages for RSET
+Official legal and support pages for Reset

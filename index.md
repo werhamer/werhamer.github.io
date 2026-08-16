@@ -1,12 +1,12 @@
 ---
 layout: home
-title: RSET
+title: Reset
 ---
 
-Official legal and support information for the RSET mobile application.
+Official legal and support information for the Reset mobile application.
 
 - [Privacy Notice](privacy.html)
 - [Terms of Use](terms.html)
 - [Support](support.html)
 
-RSET is an offline-first self-management tool. It is not a medical device, treatment or emergency service.
+Reset is an offline-first self-management tool. It is not a medical device, treatment or emergency service.
