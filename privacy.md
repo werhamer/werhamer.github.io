@@ -16,6 +16,12 @@ Support is handled by private email. Send only the minimum diagnostic informatio
 
 ## English
 
+### Huawei AppGallery edition (28 August 2026)
+
+The references to Apple and StoreKit below apply only to the iOS edition. In the Huawei AppGallery edition, Huawei In-App Purchases processes optional Plus purchases, product prices, purchase restoration and subscription status under Huawei's account, payment and privacy terms. Reset uses product identifiers and signed transaction information to verify access. Recovery goals, urges, journal entries, support contacts and voice recordings are not provided to Huawei for billing.
+
+The Huawei edition also uses Huawei AppGallery App Service to check whether a newer app version is available after the user has accepted the privacy notice. This service communicates with Huawei about the installed app and update availability. Huawei may process technical app, device and network information for these services under its own notices. Reset does not attach recovery records to update requests. A failed update check does not prevent offline use of the core tools. See [Huawei's consumer privacy policy](https://consumer.huawei.com/en/privacy/privacy-policy/) and the privacy notices displayed by AppGallery and Huawei payment services for their processing, retention, international transfers and rights channels.
+
 ### 1. Scope and design
 
 Reset is an offline-first self-management application for recovery from unwanted habits and addictive behaviours. The publisher does not provide a Reset account, advertising SDK, analytics service or cloud database. Core records are processed in the app's local database on the user's device.
@@ -84,6 +90,12 @@ Reset is not a medical device, healthcare provider, diagnosis, treatment, emerge
 Material changes receive a new document version. The app requires a fresh, separate acknowledgement and consent before continued sensitive-data processing under the new version.
 
 ## Türkçe
+
+### Huawei AppGallery sürümü (28 Ağustos 2026)
+
+Aşağıdaki Apple ve StoreKit ifadeleri yalnızca iOS sürümü içindir. Huawei AppGallery sürümünde isteğe bağlı Plus ödemeleri, ürün fiyatları, satın alımların geri yüklenmesi ve abonelik durumu Huawei'nin hesap, ödeme ve gizlilik koşulları kapsamında Huawei Uygulama İçi Satın Alma hizmetiyle işlenir. Reset erişimi doğrulamak için ürün kimliklerini ve imzalı işlem bilgilerini kullanır. Toparlanma hedefleri, dürtüler, günlük kayıtları, destek kişileri ve ses kayıtları ödeme için Huawei'ye verilmez.
+
+Huawei sürümü, kullanıcı gizlilik metnini kabul ettikten sonra yeni bir uygulama sürümü olup olmadığını kontrol etmek için Huawei AppGallery App Service hizmetini de kullanır. Hizmet, kurulu uygulama ve güncelleme durumu hakkında Huawei ile iletişim kurar. Huawei bu hizmetler için teknik uygulama, cihaz ve ağ bilgilerini kendi aydınlatma metinleri kapsamında işleyebilir. Reset güncelleme isteklerine toparlanma kayıtlarını eklemez. Güncelleme kontrolünün başarısız olması temel araçların çevrimdışı kullanımını engellemez. Huawei'nin veri işleme, saklama, uluslararası aktarım ve hak başvuru kanalları için [tüketici gizlilik politikasına](https://consumer.huawei.com/en/privacy/privacy-policy/) ve AppGallery ile Huawei ödeme hizmetlerinde gösterilen aydınlatma metinlerine bakınız.
 
 ### 1. Kapsam ve tasarım
 

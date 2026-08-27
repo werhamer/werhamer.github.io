@@ -13,6 +13,10 @@ Support: ritenza.apps@gmail.com
 
 ## English
 
+### Huawei AppGallery edition (28 August 2026)
+
+For the Huawei edition, the Apple/App Store references in clause 9 apply instead to the Huawei account and AppGallery. Available plans, localized prices and billing periods are displayed from Huawei's product catalog before purchase. Auto-renewing subscriptions continue until cancelled under the timing and conditions shown by Huawei. Manage or cancel them through Huawei's subscription management screen. A lifetime plan is a non-consumable purchase associated with the purchasing Huawei account; it does not promise perpetual operation of Huawei's services. Restore purchases using the same Huawei account on a compatible device. Purchases do not automatically transfer between Apple, Google and Huawei accounts. Refunds and mandatory consumer rights remain subject to the applicable store terms and law; no clause removes rights that cannot legally be excluded.
+
 1. **Eligibility.** Reset is intended only for users aged 18 or older. By using it, the user confirms that they meet this requirement and can legally accept these terms.
 2. **Purpose.** Reset provides optional self-management, journaling, timer, reminder and educational features for unwanted habits and addictive behaviours.
 3. **No medical service.** Reset is not a medical device, clinician, diagnosis, treatment, detoxification service or guarantee of outcome. The user must seek qualified professional advice for medical decisions. Abruptly stopping alcohol or some substances can be dangerous.
@@ -30,6 +34,10 @@ Support: ritenza.apps@gmail.com
 15. **Contact.** Use `ritenza.apps@gmail.com` for non-sensitive support. Send only the minimum diagnostic information needed and do not email recovery, health, sexual-life or financial details unless support explicitly requests a safe transfer method.
 
 ## Türkçe
+
+### Huawei AppGallery sürümü (28 Ağustos 2026)
+
+Huawei sürümünde 9. maddedeki Apple/App Store ifadelerinin karşılığı Huawei hesabı ve AppGallery'dir. Sunulan planlar, yerel fiyatlar ve dönemler satın almadan önce Huawei ürün kataloğundan alınarak gösterilir. Otomatik yenilenen abonelikler Huawei'nin gösterdiği süre ve koşullara göre iptal edilene kadar devam eder; yönetim ve iptal Huawei abonelik yönetimi ekranından yapılır. Ömür boyu plan, satın alan Huawei hesabına bağlı sarf edilmeyen bir satın alımdır; Huawei hizmetlerinin sonsuza kadar çalışacağı taahhüdü değildir. Satın alımlar uyumlu bir cihazda aynı Huawei hesabıyla geri yüklenebilir. Satın alımlar Apple, Google ve Huawei hesapları arasında kendiliğinden aktarılmaz. İadeler ve emredici tüketici hakları ilgili mağaza koşullarına ve hukuka tabidir; hukuken kaldırılamayan haklar hiçbir maddeyle kaldırılamaz.
 
 1. **Uygunluk.** Reset yalnızca 18 yaş ve üzerindeki kullanıcılar içindir. Kullanıcı, uygulamayı kullanarak bu koşulu karşıladığını ve koşulları hukuken kabul edebildiğini doğrular.
 2. **Amaç.** Reset; istenmeyen alışkanlıklar ve bağımlılık davranışları için isteğe bağlı öz yönetim, günlük, sayaç, hatırlatma ve eğitim özellikleri sunar.
