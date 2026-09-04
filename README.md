@@ -9,3 +9,5 @@ Gizlilik, kullanım şartları ve destek sayfaları doğrudan ürün adına gör
 - [LOKALLENS](./LOKALLENS)
 
 Bu depo herkese açıktır. Uygulama kaynakları, imza dosyaları ve gizli ayarlar burada tutulmaz.
+
+Merkezi yayın adresi: https://werhamer.github.io/mindventure-legal/
