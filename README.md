@@ -1,13 +1,11 @@
-# Mindventure Labs — Legal & Support
+# Mindventure Labs — Açık Sayfalar
 
-Public index for privacy policies, terms, support pages, and other public-facing app pages. Each folder points to the existing canonical public repository, so the original Pages repositories and their URLs continue working.
+Gizlilik, kullanım şartları ve destek sayfaları doğrudan ürün adına göre ayrılmıştır.
 
-| Product | Public folder |
-|---|---|
-| Prizma | `apps/prizma` |
-| Puzzle pages | `apps/puzzle` |
-| Ritenza | `apps/ritenza` |
-| Reset | `apps/reset` |
-| LokalLens | `apps/lokallens` |
+- [PRIZMA](./PRIZMA)
+- [PUZZLE](./PUZZLE)
+- [RITENZA](./RITENZA)
+- [RESET](./RESET)
+- [LOKALLENS](./LOKALLENS)
 
-No application source code, signing material, credentials, or private configuration belongs in this public repository.
+Bu depo herkese açıktır. Uygulama kaynakları, imza dosyaları ve gizli ayarlar burada tutulmaz.
