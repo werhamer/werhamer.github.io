@@ -1,0 +1,7 @@
+title: Reset Legal and Support
+description: Official privacy, terms and support information for Reset.
+theme: minima
+header_pages:
+  - privacy.md
+  - terms.md
+  - support.md
