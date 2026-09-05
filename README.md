@@ -10,4 +10,8 @@ Gizlilik, kullanım şartları ve destek sayfaları doğrudan ürün adına gör
 
 Bu depo herkese açıktır. Uygulama kaynakları, imza dosyaları ve gizli ayarlar burada tutulmaz.
 
-Merkezi yayın adresi: https://werhamer.github.io/mindventure-legal/
+Merkezi yayın adresi: https://werhamer.github.io/
+
+Tek açık depo: https://github.com/werhamer/werhamer.github.io
+Bu ad, eski mağaza bağlantılarını aynı alan adı altında çalıştırmak için gereklidir.
+Eski adres klasörleri yalnız yönlendirmedir; metinleri ürün klasöründe düzenleyin.
